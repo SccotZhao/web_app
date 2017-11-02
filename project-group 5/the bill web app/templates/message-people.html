@@ -1,0 +1,15 @@
+{% extends 'politician.html' %}
+{% block heading %}The information of the people that you want to know{% endblock %}
+{% block nncontent %}
+<h1 class="tab"> The resut is as follows: </h1>
+<ol>
+  {% for element in list %}
+  <li> 
+     {% for subelement in element %}
+        {{subelement }} |
+     {% endfor %}
+  </li>
+  {% endfor %}
+</ol>
+
+{% endblock %}

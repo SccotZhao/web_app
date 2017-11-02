@@ -1,0 +1,1264 @@
+house_or_senate,sector_name,name,is_active
+S,Aging,Susan Collins,Chairman
+S,Aging,Robert Bob Casey Jr.,Ranking Member
+S,Aging,Richard Blumenthal,NULL
+S,Aging,Richard Burr,NULL
+S,Aging,Bob Corker,NULL
+S,Aging,Catherine Cortez Masto,NULL
+S,Aging,Joe Donnelly,NULL
+S,Aging,Deb Fischer,NULL
+S,Aging,Jeff Flake,NULL
+S,Aging,Kirsten Gillibrand,NULL
+S,Aging,Orrin Hatch,NULL
+S,Aging,Bill Nelson,NULL
+S,Aging,Marco Rubio,NULL
+S,Aging,Tim Scott,NULL
+S,Aging,Thom Tillis,NULL
+S,Aging,Elizabeth Warren,NULL
+S,Aging,Sheldon Whitehouse,NULL
+S,"Agriculture, Nutrition, and Forestry",PaRobts,Chairman
+S,"Agriculture, Nutrition, and Forestry",Debbie Stabenow,Ranking Member
+S,"Agriculture, Nutrition, and Forestry",John Boozman,"Subcommittee Chair: Commodities, Risk Management and Trade"
+S,"Agriculture, Nutrition, and Forestry",Steve Daines,"Subcommittee Chair: Conservation, Forestry and Natural Resources"
+S,"Agriculture, Nutrition, and Forestry",Joni Ernst,Subcommittee Chair: Rural Development and Energy
+S,"Agriculture, Nutrition, and Forestry",David Perdue,Subcommittee Chair: LivestockMarking and Agriculture Security
+S,"Agriculture, Nutrition, and Forestry",Luther Strange,"Subcommittee Chair: Nutrition, Specialty Crops, and Agricultural Research"
+S,"Agriculture, Nutrition, and Forestry",Michael Bennet,NULL
+S,"Agriculture, Nutrition, and Forestry",Sherrod Brown,NULL
+S,"Agriculture, Nutrition, and Forestry",Robert Bob Casey Jr.,NULL
+S,"Agriculture, Nutrition, and Forestry",Thad Cochran,NULL
+S,"Agriculture, Nutrition, and Forestry",Joe Donnelly,NULL
+S,"Agriculture, Nutrition, and Forestry",Kirsten Gillibrand,NULL
+S,"Agriculture, Nutrition, and Forestry",CharleChuckrassley,NULL
+S,"Agriculture, Nutrition, and Forestry",Heidi Heitkamp,NULL
+S,"Agriculture, Nutrition, and Forestry",John Hoeven,NULL
+S,"Agriculture, Nutrition, and Forestry",Amy Klobuchar,NULL
+S,"Agriculture, Nutrition, and Forestry",PRickeahy,NULL
+S,"Agriculture, Nutrition, and Forestry",Mitch McConnell,NULL
+S,"Agriculture, Nutrition, and Forestry",John Thune,NULL
+S,"Agriculture, Nutrition, and Forestry",Chris Van Hollen Jr.,NULL
+S,Appropriations,Thad Cochran,Chairman
+S,Appropriations,Lamar Alexander,Subcommittee Chair: Energy and Water Development
+S,Appropriations,Roy Blunt,"Subcommittee Chair: Departments of Labor, Health and Human Services, and Education, and Related Agencies"
+S,Appropriations,John Boozman,Subcommittee Chair: Department of Homeland Security
+S,Appropriations,Shelley Capito,Subcommittee Chair: Financial Services and General Government
+S,Appropriations,Susan Collins,"Subcommittee Chair: Transportation, Housing and Urban Development, and Related Agencies"
+S,Appropriations,Lindsey Graham,"Subcommittee Chair: State, Foreign Operations, and Related Programs"
+S,Appropriations,John Hoeven,"Subcommittee Chair: Agriculture, Rural Development, Food and Drug Administration, and Related Agencies"
+S,Appropriations,James Lankford,Subcommittee Chair: Legislative Branch
+S,Appropriations,Jerry Moran,"Subcommittee Chair: Military Construction and Veterans Affairs, and Related Agencies"
+S,Appropriations,Lisa Murkowski,"Subcommittee Chair: Department of the Interior, Environment, and Related Agencies"
+S,Appropriations,Richard Shelby,"Subcommittee Chair: Commerce, Justice, Science, and Related Agencies"
+S,Appropriations,Tammy Baldwin,NULL
+S,Appropriations,Chris Coons,NULL
+S,Appropriations,Steve Daines,NULL
+S,Appropriations,Richard Durbin,NULL
+S,Appropriations,Dianne Feinstein,NULL
+S,Appropriations,John Kennedy,NULL
+S,Appropriations,PRickeahy,NULL
+S,Appropriations,Joe Manchin III,NULL
+S,Appropriations,Mitch McConnell,NULL
+S,Appropriations,Jeff Merkley,NULL
+S,Appropriations,Christopher Murphy,NULL
+S,Appropriations,Patty Murray,NULL
+S,Appropriations,John Jack Reed,NULL
+S,Appropriations,Marco Rubio,NULL
+S,Appropriations,Brian Schatz,NULL
+S,Appropriations,Jeanne Shaheen,NULL
+S,Appropriations,Jon Tester,NULL
+S,Appropriations,Tom Udall,NULL
+S,Appropriations,Chris Van Hollen Jr.,NULL
+S,Armed Services,John McCain,Chairman
+S,Armed Services,John Jack Reed,Ranking Member
+S,Armed Services,Tom Cotton,Subcommittee Chair: Airland
+S,Armed Services,Joni Ernst,Subcommittee Chair: Emerging Threats and Capabilities
+S,Armed Services,Deb Fischer,Subcommittee Chair: Strategic Forces
+S,Armed Services,JameJimnhofe,Subcommittee Chair: Readiness and Management Support
+S,Armed Services,Mike Rounds,Subcommittee Chair: Cybersecurity
+S,Armed Services,Thom Tillis,Subcommittee Chair: Personnel
+S,Armed Services,Roger Wicker,Subcommittee Chair: SeaPower
+S,Armed Services,Richard Blumenthal,NULL
+S,Armed Services,Ted Cruz,NULL
+S,Armed Services,Joe Donnelly,NULL
+S,Armed Services,Kirsten Gillibrand,NULL
+S,Armed Services,Lindsey Graham,NULL
+S,Armed Services,Martin Heinrich,NULL
+S,Armed Services,Mazie Hirono,NULL
+S,Armed Services,Timothy Kaine,NULL
+S,Armed Services,Angus King,NULL
+S,Armed Services,Claire McCaskill,NULL
+S,Armed Services,Bill Nelson,NULL
+S,Armed Services,David Perdue,NULL
+S,Armed Services,Gary Peters,NULL
+S,Armed Services,Benjamin Sasse,NULL
+S,Armed Services,Jeanne Shaheen,NULL
+S,Armed Services,Luther Strange,NULL
+S,Armed Services,Dan Sullivan,NULL
+S,Armed Services,Elizabeth Warren,NULL
+S,"Banking, Housing, and Urban Affairs",Michael Crapo,Chairman
+S,"Banking, Housing, and Urban Affairs",Sherrod Brown,Ranking Member
+S,"Banking, Housing, and Urban Affairs",Tom Cotton,Subcommittee Chair: Economic Policy
+S,"Banking, Housing, and Urban Affairs",Dean Heller,"Subcommittee Chair: Securities, Insurance, and Investment"
+S,"Banking, Housing, and Urban Affairs",Benjamin Sasse,Subcommittee Chair: National Security and International Trade and Finance
+S,"Banking, Housing, and Urban Affairs",Tim Scott,"Subcommittee Chair: Housing, Transportation, and Community Development"
+S,"Banking, Housing, and Urban Affairs",PatricPatoomey,Subcommittee Chair: Financial Institutions and Consumer Protection
+S,"Banking, Housing, and Urban Affairs",Bob Corker,NULL
+S,"Banking, Housing, and Urban Affairs",Catherine Cortez Masto,NULL
+S,"Banking, Housing, and Urban Affairs",Joe Donnelly,NULL
+S,"Banking, Housing, and Urban Affairs",Heidi Heitkamp,NULL
+S,"Banking, Housing, and Urban Affairs",John Kennedy,NULL
+S,"Banking, Housing, and Urban Affairs",Robert Bob Menndez,NULL
+S,"Banking, Housing, and Urban Affairs",David Perdue,NULL
+S,"Banking, Housing, and Urban Affairs",John Jack Reed,NULL
+S,"Banking, Housing, and Urban Affairs",Mike Rounds,NULL
+S,"Banking, Housing, and Urban Affairs",Brian Schatz,NULL
+S,"Banking, Housing, and Urban Affairs",Richard Shelby,NULL
+S,"Banking, Housing, and Urban Affairs",Jon Tester,NULL
+S,"Banking, Housing, and Urban Affairs",Thom Tillis,NULL
+S,"Banking, Housing, and Urban Affairs",Chris Van Hollen Jr.,NULL
+S,"Banking, Housing, and Urban Affairs",Mark Warner,NULL
+S,"Banking, Housing, and Urban Affairs",Elizabeth Warren,NULL
+S,the Budget,Michael Enzi,Chairman
+S,the Budget,Bernard Bernie Sanders,Ranking Member
+S,the Budget,John Boozman,NULL
+S,the Budget,Bob Corker,NULL
+S,the Budget,Michael Crapo,NULL
+S,the Budget,Cory Gardner,NULL
+S,the Budget,Lindsey Graham,NULL
+S,the Budget,CharleChuckrassley,NULL
+S,the Budget,Kamala Harris,NULL
+S,the Budget,Ron Johnson,NULL
+S,the Budget,Timothy Kaine,NULL
+S,the Budget,John Kennedy,NULL
+S,the Budget,Angus King,NULL
+S,the Budget,Jeff Merkley,NULL
+S,the Budget,Patty Murray,NULL
+S,the Budget,David Perdue,NULL
+S,the Budget,Debbie Stabenow,NULL
+S,the Budget,Luther Strange,NULL
+S,the Budget,PatricPatoomey,NULL
+S,the Budget,Chris Van Hollen Jr.,NULL
+S,the Budget,Mark Warner,NULL
+S,the Budget,Sheldon Whitehouse,NULL
+S,the Budget,Ron Wyden,NULL
+S,"Commerce, Science, and Transportation",John Thune,Chairman
+S,"Commerce, Science, and Transportation",Bill Nelson,Ranking Member
+S,"Commerce, Science, and Transportation",Roy Blunt,"Subcommittee Chair: Aviation Operations, Safety, and Security"
+S,"Commerce, Science, and Transportation",Ted Cruz,"Subcommittee Chair: Space, Science, and Competitiveness"
+S,"Commerce, Science, and Transportation",Deb Fischer,"Subcommittee Chair: Surface Transportation and Merchant Marine Infrastructure, Safety and Security"
+S,"Commerce, Science, and Transportation",Jerry Moran,"Subcommittee Chair: Consumer Protection, Product Safety, Insurance, and Data Security"
+S,"Commerce, Science, and Transportation",Dan Sullivan,"Subcommittee Chair: Oceans, Atmosphere, Fisheries, and Coast Guard"
+S,"Commerce, Science, and Transportation",Roger Wicker,"Subcommittee Chair: Communications, Technology, Innovation, and the Internet"
+S,"Commerce, Science, and Transportation",Tammy Baldwin,NULL
+S,"Commerce, Science, and Transportation",Richard Blumenthal,NULL
+S,"Commerce, Science, and Transportation",Cory Booker,NULL
+S,"Commerce, Science, and Transportation",Maria Cantwell,NULL
+S,"Commerce, Science, and Transportation",Shelley Capito,NULL
+S,"Commerce, Science, and Transportation",Catherine Cortez Masto,NULL
+S,"Commerce, Science, and Transportation",Tammy Duckworth,NULL
+S,"Commerce, Science, and Transportation",Cory Gardner,NULL
+S,"Commerce, Science, and Transportation",MargareMaggieassan,NULL
+S,"Commerce, Science, and Transportation",Dean Heller,NULL
+S,"Commerce, Science, and Transportation",JameJimnhofe,NULL
+S,"Commerce, Science, and Transportation",Ron Johnson,NULL
+S,"Commerce, Science, and Transportation",Amy Klobuchar,NULL
+S,"Commerce, Science, and Transportation",Mike Lee,NULL
+S,"Commerce, Science, and Transportation",Edward EMark,NULL
+S,"Commerce, Science, and Transportation",Gary Peters,NULL
+S,"Commerce, Science, and Transportation",Brian Schatz,NULL
+S,"Commerce, Science, and Transportation",Tom Udall,NULL
+S,"Commerce, Science, and Transportation",Todd Young,NULL
+S,Energy and Natural Resources,Lisa Murkowski,Chairman
+S,Energy and Natural Resources,Maria Cantwell,Ranking Member
+S,Energy and Natural Resources,Steve Daines,Subcommittee Chair: National Parks
+S,Energy and Natural Resources,Jeff Flake,Subcommittee Chair: Water and Power
+S,Energy and Natural Resources,Cory Gardner,Subcommittee Chair: Energy
+S,Energy and Natural Resources,Mike Lee,"Subcommittee Chair: Public Lands, Forests, and Mining"
+S,Energy and Natural Resources,Lamar Alexander,NULL
+S,Energy and Natural Resources,John Barrasso,NULL
+S,Energy and Natural Resources,Bill Cassidy,NULL
+S,Energy and Natural Resources,Catherine Cortez Masto,NULL
+S,Energy and Natural Resources,Tammy Duckworth,NULL
+S,Energy and Natural Resources,Alan Al Franken,NULL
+S,Energy and Natural Resources,Martin Heinrich,NULL
+S,Energy and Natural Resources,Mazie Hirono,NULL
+S,Energy and Natural Resources,John Hoeven,NULL
+S,Energy and Natural Resources,Angus King,NULL
+S,Energy and Natural Resources,Joe Manchin III,NULL
+S,Energy and Natural Resources,RoberRobortman,NULL
+S,Energy and Natural Resources,James Risch,NULL
+S,Energy and Natural Resources,Bernard Bernie Sanders,NULL
+S,Energy and Natural Resources,Debbie Stabenow,NULL
+S,Energy and Natural Resources,Luther Strange,NULL
+S,Energy and Natural Resources,Ron Wyden,NULL
+S,Environment and Public Works,John Barrasso,Chairman
+S,Environment and Public Works,Cory Booker,NULL
+S,Environment and Public Works,John Boozman,NULL
+S,Environment and Public Works,Shelley Capito,NULL
+S,Environment and Public Works,Benjamin Cardin,NULL
+S,Environment and Public Works,Thomas Carper,NULL
+S,Environment and Public Works,Tammy Duckworth,NULL
+S,Environment and Public Works,Joni Ernst,NULL
+S,Environment and Public Works,Deb Fischer,NULL
+S,Environment and Public Works,Kirsten Gillibrand,NULL
+S,Environment and Public Works,Kamala Harris,NULL
+S,Environment and Public Works,JameJimnhofe,NULL
+S,Environment and Public Works,Edward EMark,NULL
+S,Environment and Public Works,Jeff Merkley,NULL
+S,Environment and Public Works,Jerry Moran,NULL
+S,Environment and Public Works,Mike Rounds,NULL
+S,Environment and Public Works,Bernard Bernie Sanders,NULL
+S,Environment and Public Works,Richard Shelby,NULL
+S,Environment and Public Works,Dan Sullivan,NULL
+S,Environment and Public Works,Sheldon Whitehouse,NULL
+S,Environment and Public Works,Roger Wicker,NULL
+S,Ethics,John Johnny Isakson,Chairman
+S,Ethics,Chris Coons,Vice Chairman
+S,Ethics,James Risch,NULL
+S,Ethics,PaRobts,NULL
+S,Ethics,Brian Schatz,NULL
+S,Ethics,Jeanne Shaheen,NULL
+S,Finance,Orrin Hatch,Chairman
+S,Finance,Ron Wyden,Ranking Member
+S,Finance,Bill Cassidy,"Subcommittee Chair: Social Security, Pensions, and Family Policy"
+S,Finance,John Cornyn,"Subcommittee Chair: International Trade, Customs, and Global Competitiveness"
+S,Finance,Dean Heller,"Subcommittee Chair: Energy, Natural Resources, and Infrastructure"
+S,Finance,RoberRobortman,Subcommittee Chair: Taxation and IRS Oversight
+S,Finance,Tim Scott,Subcommittee Chair: Fiscal Responsibility and Economic Growth
+S,Finance,PatricPatoomey,Subcommittee Chair: Health Care
+S,Finance,Michael Bennet,NULL
+S,Finance,Sherrod Brown,NULL
+S,Finance,Richard Burr,NULL
+S,Finance,Maria Cantwell,NULL
+S,Finance,Benjamin Cardin,NULL
+S,Finance,Thomas Carper,NULL
+S,Finance,Robert Bob Casey Jr.,NULL
+S,Finance,Michael Crapo,NULL
+S,Finance,Michael Enzi,NULL
+S,Finance,Charles Chuck Grassley,NULL
+S,Finance,John Johnny Isakson,NULL
+S,Finance,Claire McCaskill,NULL
+S,Finance,Robert Bob Menndez,NULL
+S,Finance,Bill Nelson,NULL
+S,Finance,PaRobts,NULL
+S,Finance,Debbie Stabenow,NULL
+S,Finance,John Thune,NULL
+S,Finance,Mark Warner,NULL
+S,Foreign Relations,Bob Corker,Chairman
+S,Foreign Relations,Benjamin Cardin,Ranking Member
+S,Foreign Relations,Jeff Flake,Subcommittee Chair: Africa and Global Health Policy
+S,Foreign Relations,Cory Gardner,"Subcommittee Chair: East Asia, the Pacific, and International Cybersecurity Policy"
+S,Foreign Relations,John Johnny Isakson,"Subcommittee Chair: State Department and USAID Management, International Operations, and Bilateral International Development"
+S,Foreign Relations,Ron Johnson,Subcommittee Chair: Europe and Regional Security Cooperation
+S,Foreign Relations,James Risch,"Subcommittee Chair: Near East, South Asia, Central Asia, and Counterterrorism"
+S,Foreign Relations,Marco Rubio,"Subcommittee Chair: Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues"
+S,Foreign Relations,Todd Young,"Subcommittee Chair: Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy"
+S,Foreign Relations,John Barrasso,NULL
+S,Foreign Relations,Cory Booker,NULL
+S,Foreign Relations,Chris Coons,NULL
+S,Foreign Relations,Timothy Kaine,NULL
+S,Foreign Relations,Edward EdMark,NULL
+S,Foreign Relations,Robert Bob Menndez,NULL
+S,Foreign Relations,Jeff Merkley,NULL
+S,Foreign Relations,Christopher Murphy,NULL
+S,Foreign Relations,Rand Paul,NULL
+S,Foreign Relations,Robert Rob Portman,NULL
+S,Foreign Relations,Jeanne Shaheen,NULL
+S,Foreign Relations,Tom Udall,NULL
+S,"Health, Education, Labor, and Pensions",Lamar Alexander,Chairman
+S,"Health, Education, Labor, and Pensions",Patty Murray,Ranking Member
+S,"Health, Education, Labor, and Pensions",Michael Enzi,Subcommittee Chair: Primary Health and Retirement Security
+S,"Health, Education, Labor, and Pensions",John Johnny Isakson,Subcommittee Chair: Employment and Workplace Safety
+S,"Health, Education, Labor, and Pensions",Rand Paul,Subcommittee Chair: Children and Families
+S,"Health, Education, Labor, and Pensions",Tammy Baldwin,NULL
+S,"Health, Education, Labor, and Pensions",Michael Bennet,NULL
+S,"Health, Education, Labor, and Pensions",Richard Burr,NULL
+S,"Health, Education, Labor, and Pensions",Robert Bob Casey Jr.,NULL
+S,"Health, Education, Labor, and Pensions",Bill Cassidy,NULL
+S,"Health, Education, Labor, and Pensions",Susan Collins,NULL
+S,"Health, Education, Labor, and Pensions",Alan Al Franken,NULL
+S,"Health, Education, Labor, and Pensions",Margaret Maggie Hassan,NULL
+S,"Health, Education, Labor, and Pensions",Orrin Hatch,NULL
+S,"Health, Education, Labor, and Pensions",Timothy Kaine,NULL
+S,"Health, Education, Labor, and Pensions",Lisa Murkowski,NULL
+S,"Health, Education, Labor, and Pensions",Christopher Murphy,NULL
+S,"Health, Education, Labor, and Pensions",PaRobts,NULL
+S,"Health, Education, Labor, and Pensions",Bernard Bernie Sanders,NULL
+S,"Health, Education, Labor, and Pensions",Tim Scott,NULL
+S,"Health, Education, Labor, and Pensions",Elizabeth Warren,NULL
+S,"Health, Education, Labor, and Pensions",Sheldon Whitehouse,NULL
+S,"Health, Education, Labor, and Pensions",Todd Young,NULL
+S,Homeland Security and Governmental Affairs,Ron Johnson,Chairman
+S,Homeland Security and Governmental Affairs,Claire McCaskill,Ranking Member
+S,Homeland Security and Governmental Affairs,James Lankford,Subcommittee Chair: Regulatory Affairs and Federal Management
+S,Homeland Security and Governmental Affairs,Rand Paul,Subcommittee Chair: Federal Spending Oversight and Emergency Management
+S,Homeland Security and Governmental Affairs,Robert Rob Portman,Subcommittee Chair: Permanent Subcommittee on Investigations
+S,Homeland Security and Governmental Affairs,Thomas Carper,NULL
+S,Homeland Security and Governmental Affairs,Steve Daines,NULL
+S,Homeland Security and Governmental Affairs,Michael Enzi,NULL
+S,Homeland Security and Governmental Affairs,Kamala Harris,NULL
+S,Homeland Security and Governmental Affairs,Margaret Maggie Hassan,NULL
+S,Homeland Security and Governmental Affairs,Heidi Heitkamp,NULL
+S,Homeland Security and Governmental Affairs,John Hoeven,NULL
+S,Homeland Security and Governmental Affairs,John McCain,NULL
+S,Homeland Security and Governmental Affairs,Gary Peters,NULL
+S,Homeland Security and Governmental Affairs,Jon Tester,NULL
+S,Indian Affairs,John Hoeven,Chairman
+S,Indian Affairs,Tom Udall,Vice Chairman
+S,Indian Affairs,John Barrasso,NULL
+S,Indian Affairs,Maria Cantwell,NULL
+S,Indian Affairs,Catherine Cortez Masto,NULL
+S,Indian Affairs,Michael Crapo,NULL
+S,Indian Affairs,Steve Daines,NULL
+S,Indian Affairs,Alan Al Franken,NULL
+S,Indian Affairs,Heidi Heitkamp,NULL
+S,Indian Affairs,James Lankford,NULL
+S,Indian Affairs,John McCain,NULL
+S,Indian Affairs,Jerry Moran,NULL
+S,Indian Affairs,Lisa Murkowski,NULL
+S,Indian Affairs,Brian Schatz,NULL
+S,Indian Affairs,Jon Tester,NULL
+S,Intelligence,Richard Burr,Chairman
+S,Intelligence,Mark Warner,Vice Chairman
+S,Intelligence,John McCain,Ex Officio
+S,Intelligence,Mitch McConnell,Ex Officio
+S,Intelligence,John Jack Reed,Ex Officio
+S,Intelligence,Charles Chuck Schumer,Ex Officio
+S,Intelligence,Roy Blunt,NULL
+S,Intelligence,Susan Collins,NULL
+S,Intelligence,John Cornyn,NULL
+S,Intelligence,Tom Cotton,NULL
+S,Intelligence,Dianne Feinstein,NULL
+S,Intelligence,Kamala Harris,NULL
+S,Intelligence,Martin Heinrich,NULL
+S,Intelligence,Angus King,NULL
+S,Intelligence,James Lankford,NULL
+S,Intelligence,Joe Manchin III,NULL
+S,Intelligence,James Risch,NULL
+S,Intelligence,Marco Rubio,NULL
+S,Intelligence,Ron Wyden,NULL
+S,the Judiciary,Charles Chuck Grassley,Chairman
+S,the Judiciary,Dianne Feinstein,Ranking Member
+S,the Judiciary,John Cornyn,Subcommittee Chair: Border Security and Immigration
+S,the Judiciary,Ted Cruz,Subcommittee Chair: the Constitution
+S,the Judiciary,Jeff Flake,"Subcommittee Chair: Privacy, Technology and the Law"
+S,the Judiciary,Lindsey Graham,Subcommittee Chair: Crime and Terrorism
+S,the Judiciary,Mike Lee,"Subcommittee Chair: Antitrust, Competition Policy and Consumer Rights"
+S,the Judiciary,Benjamin Sasse,"Subcommittee Chair: Oversight, Agency Action, Federal Rights and Federal Courts"
+S,the Judiciary,Richard Blumenthal,NULL
+S,the Judiciary,Chris Coons,NULL
+S,the Judiciary,Michael Crapo,NULL
+S,the Judiciary,Richard Durbin,NULL
+S,the Judiciary,Alan Al Franken,NULL
+S,the Judiciary,Orrin Hatch,NULL
+S,the Judiciary,Mazie Hirono,NULL
+S,the Judiciary,John Kennedy,NULL
+S,the Judiciary,Amy Klobuchar,NULL
+S,the Judiciary,PRickeahy,NULL
+S,the Judiciary,Thom Tillis,NULL
+S,the Judiciary,Sheldon Whitehouse,NULL
+S,Rules and Administration,Roy Blunt,Chairman
+S,Rules and Administration,Richard Shelby,Chairman
+S,Rules and Administration,Amy Klobuchar,Ranking Member
+S,Rules and Administration,Lamar Alexander,NULL
+S,Rules and Administration,Shelley Capito,NULL
+S,Rules and Administration,Thad Cochran,NULL
+S,Rules and Administration,Catherine Cortez Masto,NULL
+S,Rules and Administration,Ted Cruz,NULL
+S,Rules and Administration,Richard Durbin,NULL
+S,Rules and Administration,Dianne Feinstein,NULL
+S,Rules and Administration,Deb Fischer,NULL
+S,Rules and Administration,Angus King,NULL
+S,Rules and Administration,PRickeahy,NULL
+S,Rules and Administration,Mitch McConnell,NULL
+S,Rules and Administration,PaRobts,NULL
+S,Rules and Administration,Charles Chuck Schumer,NULL
+S,Rules and Administration,Tom Udall,NULL
+S,Rules and Administration,Mark Warner,NULL
+S,Rules and Administration,Roger Wicker,NULL
+S,Small Business and Entrepreneurship,James Risch,Chairman
+S,Small Business and Entrepreneurship,Jeanne Shaheen,Ranking Member
+S,Small Business and Entrepreneurship,Cory Booker,NULL
+S,Small Business and Entrepreneurship,Maria Cantwell,NULL
+S,Small Business and Entrepreneurship,Benjamin Cardin,NULL
+S,Small Business and Entrepreneurship,Chris Coons,NULL
+S,Small Business and Entrepreneurship,Tammy Duckworth,NULL
+S,Small Business and Entrepreneurship,Michael Enzi,NULL
+S,Small Business and Entrepreneurship,Joni Ernst,NULL
+S,Small Business and Entrepreneurship,Heidi Heitkamp,NULL
+S,Small Business and Entrepreneurship,Mazie Hirono,NULL
+S,Small Business and Entrepreneurship,James Jim Inhofe,NULL
+S,Small Business and Entrepreneurship,John Kennedy,NULL
+S,Small Business and Entrepreneurship,Edward EdMark,NULL
+S,Small Business and Entrepreneurship,Rand Paul,NULL
+S,Small Business and Entrepreneurship,Mike Rounds,NULL
+S,Small Business and Entrepreneurship,Marco Rubio,NULL
+S,Small Business and Entrepreneurship,Tim Scott,NULL
+S,Small Business and Entrepreneurship,Todd Young,NULL
+J,United States Senate Caucus on International Narcotics Control,Charles Chuck Grassley,Chairman
+J,United States Senate Caucus on International Narcotics Control,John Cornyn,NULL
+J,United States Senate Caucus on International Narcotics Control,Dianne Feinstein,NULL
+J,United States Senate Caucus on International Narcotics Control,James Risch,NULL
+J,United States Senate Caucus on International Narcotics Control,Charles Chuck Schumer,NULL
+J,United States Senate Caucus on International Narcotics Control,Sheldon Whitehouse,NULL
+S,Veterans' Affairs,John Johnny Isakson,Chairman
+S,Veterans' Affairs,Jon Tester,Ranking Member
+S,Veterans' Affairs,Richard Blumenthal,NULL
+S,Veterans' Affairs,John Boozman,NULL
+S,Veterans' Affairs,Sherrod Brown,NULL
+S,Veterans' Affairs,Bill Cassidy,NULL
+S,Veterans' Affairs,Dean Heller,NULL
+S,Veterans' Affairs,Mazie Hirono,NULL
+S,Veterans' Affairs,Joe Manchin III,NULL
+S,Veterans' Affairs,Jerry Moran,NULL
+S,Veterans' Affairs,Patty Murray,NULL
+S,Veterans' Affairs,Mike Rounds,NULL
+S,Veterans' Affairs,Bernard Bernie Sanders,NULL
+S,Veterans' Affairs,Dan Sullivan,NULL
+S,Veterans' Affairs,Thom Tillis,NULL
+H,Agriculture,Michael Conaway,Chairman
+H,Agriculture,Collin Peterson,Ranking Member
+H,Agriculture,Eric Rick Crawford,Subcommittee Chair: General Farm Commodities and Risk Management
+H,Agriculture,Rodney Davis,"Subcommittee Chair: Biotechnology, Horticulture, and Research"
+H,Agriculture,Frank Lucas,Subcommittee Chair: Conservation and Forestry
+H,Agriculture,David Rouzer,Subcommittee Chair: Livestock and Foreign Agriculture
+H,Agriculture,Austin Scott,"Subcommittee Chair: Commodity Exchanges, Energy, and Credit"
+H,Agriculture,Glenn Thompson,Subcommittee Chair: Nutrition
+H,Agriculture,Ralph Abraham,NULL
+H,Agriculture,Alma Adams,NULL
+H,Agriculture,Rick Allen,NULL
+H,Agriculture,Jodey Arrington,NULL
+H,Agriculture,Don Bacon,NULL
+H,Agriculture,Lisa Blunt Rochester,NULL
+H,Agriculture,Mike Bost,NULL
+H,Agriculture,Cheri Bustos,NULL
+H,Agriculture,James Comer,NULL
+H,Agriculture,Jim Costa,NULL
+H,Agriculture,Jeff Denham,NULL
+H,Agriculture,Scott DesJarlais,NULL
+H,Agriculture,Neal Dunn,NULL
+H,Agriculture,Dwight Evans,NULL
+H,Agriculture,John Faso,NULL
+H,Agriculture,Marcia Fudge,NULL
+H,Agriculture,Bob Gibbs,NULL
+H,Agriculture,Bob Goodlatte,NULL
+H,Agriculture,Vicky Hartzler,NULL
+H,Agriculture,Trent Kelly,NULL
+H,Agriculture,Steve King,NULL
+H,Agriculture,Ann Kuster,NULL
+H,Agriculture,Doug LaMalfa,NULL
+H,Agriculture,Al Lawson,NULL
+H,Agriculture,Michelle Lujan Grisham,NULL
+H,Agriculture,Sean Maloney,NULL
+H,Agriculture,Roger Marshall,NULL
+H,Agriculture,James Jim McGovern,NULL
+H,Agriculture,Richard Nolan,NULL
+H,Agriculture,Tom O'Halleran,NULL
+H,Agriculture,Jimmy Panetta,NULL
+H,Agriculture,Stacey Plaskett,NULL
+H,Agriculture,Mike Rogers,NULL
+H,Agriculture,David Scott,NULL
+H,Agriculture,Darren Soto,NULL
+H,Agriculture,Filemon Vela,NULL
+H,Agriculture,Timothy Walz,NULL
+H,Agriculture,Ted Yoho,NULL
+H,Appropriations,Rodney Frelinghuysen,Chairman
+H,Appropriations,Nita Lowey,Ranking Member
+H,Appropriations,Robert Aderholt,NULL
+H,Appropriations,Pete Aguilar,NULL
+H,Appropriations,Mark Amodei,NULL
+H,Appropriations,Sanford Bishop Jr.,NULL
+H,Appropriations,Ken Calvert,NULL
+H,Appropriations,John Carter,NULL
+H,Appropriations,Matthew Cartwright,NULL
+H,Appropriations,Katherine Clark,NULL
+H,Appropriations,Tom Cole,NULL
+H,Appropriations,Henry Cuellar,NULL
+H,Appropriations,John Culberson,NULL
+H,Appropriations,Rosa DeLauro,NULL
+H,Appropriations,Charles Dent,NULL
+H,Appropriations,Mario Diaz-Balart,NULL
+H,Appropriations,Charles Chuck Fleischmann,NULL
+H,Appropriations,Jeff Fortenberry,NULL
+H,Appropriations,Kay Granger,NULL
+H,Appropriations,Tom Graves,NULL
+H,Appropriations,Andy Harris,NULL
+H,Appropriations,Jaime Herrera Beutler,NULL
+H,Appropriations,Evan Jenkins,NULL
+H,Appropriations,David Joyce,NULL
+H,Appropriations,Marcy Kaptur,NULL
+H,Appropriations,Derek Kilmer,NULL
+H,Appropriations,Barbara Lee,NULL
+H,Appropriations,Betty McCollum,NULL
+H,Appropriations,Grace Meng,NULL
+H,Appropriations,John Moolenaar,NULL
+H,Appropriations,Dan Newhouse,NULL
+H,Appropriations,Steven Palazzo,NULL
+H,Appropriations,Chellie Pingree,NULL
+H,Appropriations,Mark Pocan,NULL
+H,Appropriations,David Price,NULL
+H,Appropriations,Mike Quigley,NULL
+H,Appropriations,Martha Roby,NULL
+H,Appropriations,Harold Hal Rogers,NULL
+H,Appropriations,Thomas Rooney,NULL
+H,Appropriations,Lucille Roybal-Allard,NULL
+H,Appropriations,A. Dutch Ruppersberger,NULL
+H,Appropriations,Tim Ryan,NULL
+H,Appropriations,Jos Serrano,NULL
+H,Appropriations,Michael Mike Simpson,NULL
+H,Appropriations,Chris Stewart,NULL
+H,Appropriations,Scott Taylor,NULL
+H,Appropriations,David Valadao,NULL
+H,Appropriations,Peter Visclosky,NULL
+H,Appropriations,Debbie Wasserman Schultz,NULL
+H,Appropriations,Steve Womack,NULL
+H,Appropriations,Kevin Yoder,NULL
+H,Appropriations,David Young,NULL
+H,Armed Services,Mac Thornberry,Chairman
+H,Armed Services,Adam Smith,Ranking Member
+H,Armed Services,Mike Coffman,Subcommittee Chair: Military Personnel
+H,Armed Services,Vicky Hartzler,Subcommittee Chair: Oversight and Investigations
+H,Armed Services,Mike Rogers,Subcommittee Chair: Strategic Forces
+H,Armed Services,Elise Stefanik,Subcommittee Chair: Emerging Threats and Capabilities
+H,Armed Services,Michael Turner,Subcommittee Chair: Tactical Air and Land Forces
+H,Armed Services,Joe Wilson,Subcommittee Chair: Readiness
+H,Armed Services,Robert Wittman,Subcommittee Chair: Seapower and Projection Forces
+H,Armed Services,Ralph Abraham,NULL
+H,Armed Services,Don Bacon,NULL
+H,Armed Services,Jim Banks,NULL
+H,Armed Services,Rob Bishop,NULL
+H,Armed Services,Madeleine Bordallo,NULL
+H,Armed Services,Robert Brady,NULL
+H,Armed Services,Jim Bridenstine,NULL
+H,Armed Services,Mo Brooks,NULL
+H,Armed Services,Anthony Brown,NULL
+H,Armed Services,Bradley Byrne,NULL
+H,Armed Services,Salud Carbajal,NULL
+H,Armed Services,Liz Cheney,NULL
+H,Armed Services,Michael Conaway,NULL
+H,Armed Services,Paul Cook,NULL
+H,Armed Services,Jim Cooper,NULL
+H,Armed Services,Joe Courtney,NULL
+H,Armed Services,Susan Davis,NULL
+H,Armed Services,Scott DesJarlais,NULL
+H,Armed Services,Trent Franks,NULL
+H,Armed Services,Tulsi Gabbard,NULL
+H,Armed Services,Matt Gaetz,NULL
+H,Armed Services,Mike Gallagher,NULL
+H,Armed Services,Ruben Gallego,NULL
+H,Armed Services,John Garamendi,NULL
+H,Armed Services,Sam Graves,NULL
+H,Armed Services,Colleen Hanabusa,NULL
+H,Armed Services,Duncan Hunter,NULL
+H,Armed Services,Walter Jones Jr.,NULL
+H,Armed Services,Trent Kelly,NULL
+H,Armed Services,Ro Khanna,NULL
+H,Armed Services,Steve Knight,NULL
+H,Armed Services,Doug Lamborn,NULL
+H,Armed Services,James Jim Langevin,NULL
+H,Armed Services,Rick Larsen,NULL
+H,Armed Services,Frank LoBiondo,NULL
+H,Armed Services,Donald McEachin,NULL
+H,Armed Services,Martha McSally,NULL
+H,Armed Services,Seth Moulton,NULL
+H,Armed Services,Stephanie Murphy,NULL
+H,Armed Services,Donald Norcross,NULL
+H,Armed Services,Tom O'Halleran,NULL
+H,Armed Services,Beto O'Rourke,NULL
+H,Armed Services,Jacky Rosen,NULL
+H,Armed Services,Steve Russell,NULL
+H,Armed Services,Austin Scott,NULL
+H,Armed Services,Carol Shea-Porter,NULL
+H,Armed Services,Bill Shuster,NULL
+H,Armed Services,Jackie Speier,NULL
+H,Armed Services,Thomas Suozzi,NULL
+H,Armed Services,Niki Tsongas,NULL
+H,Armed Services,Marc Veasey,NULL
+H,Armed Services,Brad Wenstrup,NULL
+H,the Budget,Diane Black,Chairman
+H,the Budget,John Yarmuth,Ranking Member
+H,the Budget,Jodey Arrington,NULL
+H,the Budget,Jack Bergman,NULL
+H,the Budget,Brendan Boyle,NULL
+H,the Budget,David Dave Brat,NULL
+H,the Budget,Salud Carbajal,NULL
+H,the Budget,Tom Cole,NULL
+H,the Budget,Suzan DelBene,NULL
+H,the Budget,Mario Diaz-Balart,NULL
+H,the Budget,John Faso,NULL
+H,the Budget,Drew Ferguson IV,NULL
+H,the Budget,Matt Gaetz,NULL
+H,the Budget,Glenn Grothman,NULL
+H,the Budget,Brian Higgins,NULL
+H,the Budget,Sheila Jackson Lee,NULL
+H,the Budget,Pramila Jayapal,NULL
+H,the Budget,Hakeem Jeffries,NULL
+H,the Budget,Bill Johnson,NULL
+H,the Budget,Ro Khanna,NULL
+H,the Budget,Barbara Lee,NULL
+H,the Budget,Jason Lewis,NULL
+H,the Budget,Michelle Lujan Grisham,NULL
+H,the Budget,Tom McClintock,NULL
+H,the Budget,Seth Moulton,NULL
+H,the Budget,Gary Palmer,NULL
+H,the Budget,James Renacci,NULL
+H,the Budget,Todd Rokita,NULL
+H,the Budget,Marshall Mark Sanford,NULL
+H,the Budget,Janice Jan Schakowsky,NULL
+H,the Budget,Jason Smith,NULL
+H,the Budget,Lloyd Smucker,NULL
+H,the Budget,Debbie Wasserman Schultz,NULL
+H,the Budget,Bruce Westerman,NULL
+H,the Budget,Steve Womack,NULL
+H,the Budget,Rob Woodall,NULL
+H,Education and the Workforce,Virginia Foxx,Chairman
+H,Education and the Workforce,Joe Wilson,Vice Chairman
+H,Education and the Workforce,Robert Bobby Scott,Ranking Member
+H,Education and the Workforce,Bradley Byrne,Subcommittee Chair: Workforce Protections
+H,Education and the Workforce,Brett Guthrie,Subcommittee Chair: Higher Education and Workforce Development
+H,Education and the Workforce,Todd Rokita,"Subcommittee Chair: Early Childhood, Elementary, and Secondary Education"
+H,Education and the Workforce,Tim Walberg,"Subcommittee Chair: Health, Employment, Labor, and Pensions"
+H,Education and the Workforce,Alma Adams,NULL
+H,Education and the Workforce,Rick Allen,NULL
+H,Education and the Workforce,Lou Barletta,NULL
+H,Education and the Workforce,Lisa Blunt Rochester,NULL
+H,Education and the Workforce,Suzanne Bonamici,NULL
+H,Education and the Workforce,David Dave Brat,NULL
+H,Education and the Workforce,Joe Courtney,NULL
+H,Education and the Workforce,Susan Davis,NULL
+H,Education and the Workforce,Mark DeSaulnier,NULL
+H,Education and the Workforce,Adriano Espaillat,NULL
+H,Education and the Workforce,Drew Ferguson IV,NULL
+H,Education and the Workforce,Marcia Fudge,NULL
+H,Education and the Workforce,Thomas Garrett,NULL
+H,Education and the Workforce,Ral Grijalva,NULL
+H,Education and the Workforce,Glenn Grothman,NULL
+H,Education and the Workforce,Duncan Hunter,NULL
+H,Education and the Workforce,Raja Krishnamoorthi,NULL
+H,Education and the Workforce,Jason Lewis,NULL
+H,Education and the Workforce,Luke Messer,NULL
+H,Education and the Workforce,Paul Mitchell,NULL
+H,Education and the Workforce,Donald Norcross,NULL
+H,Education and the Workforce,Jared Polis,NULL
+H,Education and the Workforce,David Phil Roe,NULL
+H,Education and the Workforce,Francis Rooney,NULL
+H,Education and the Workforce,Steve Russell,NULL
+H,Education and the Workforce,Gregorio Sablan,NULL
+H,Education and the Workforce,Carol Shea-Porter,NULL
+H,Education and the Workforce,Lloyd Smucker,NULL
+H,Education and the Workforce,Elise Stefanik,NULL
+H,Education and the Workforce,Mark Takano,NULL
+H,Education and the Workforce,Glenn Thompson,NULL
+H,Education and the Workforce,Frederica Wilson,NULL
+H,Energy and Commerce,Greg Walden,Chairman
+H,Energy and Commerce,Frank Pallone Jr.,Ranking Member
+H,Energy and Commerce,Marsha Blackburn,Subcommittee Chair: Communications and Technology
+H,Energy and Commerce,Michael Burgess,Subcommittee Chair: Health
+H,Energy and Commerce,Robert Latta,Subcommittee Chair: Digital Commerce and Consumer Protection
+H,Energy and Commerce,Tim Murphy,Subcommittee Chair: Oversight and Investigations
+H,Energy and Commerce,John Shimkus,Subcommittee Chair: Environment
+H,Energy and Commerce,Fred Upton,Subcommittee Chair: Energy
+H,Energy and Commerce,Joe Barton,NULL
+H,Energy and Commerce,Gus Bilirakis,NULL
+H,Energy and Commerce,Susan Brooks,NULL
+H,Energy and Commerce,Larry Bucshon,NULL
+H,Energy and Commerce,George G.K. Butterfield Jr.,NULL
+H,Energy and Commerce,Buddy Carter,NULL
+H,Energy and Commerce,Kathy Castor,NULL
+H,Energy and Commerce,Yvette Clarke,NULL
+H,Energy and Commerce,Chris Collins,NULL
+H,Energy and Commerce,Ryan Costello,NULL
+H,Energy and Commerce,Kevin Cramer,NULL
+H,Energy and Commerce,Tony Crdenas,NULL
+H,Energy and Commerce,Diana DeGette,NULL
+H,Energy and Commerce,Debbie Dingell,NULL
+H,Energy and Commerce,Michael Mike Doyle Jr.,NULL
+H,Energy and Commerce,Eliot Engel,NULL
+H,Energy and Commerce,Anna Eshoo,NULL
+H,Energy and Commerce,Bill Flores,NULL
+H,Energy and Commerce,Gene Green,NULL
+H,Energy and Commerce,Morgan Griffith,NULL
+H,Energy and Commerce,Brett Guthrie,NULL
+H,Energy and Commerce,Gregg Harper,NULL
+H,Energy and Commerce,Richard Hudson,NULL
+H,Energy and Commerce,Bill Johnson,NULL
+H,Energy and Commerce,Joseph Kennedy III,NULL
+H,Energy and Commerce,Adam Kinzinger,NULL
+H,Energy and Commerce,Leonard Lance,NULL
+H,Energy and Commerce,David Loebsack,NULL
+H,Energy and Commerce,Billy Long,NULL
+H,Energy and Commerce,Ben Lujn,NULL
+H,Energy and Commerce,Doris Matsui,NULL
+H,Energy and Commerce,David McKinley,NULL
+H,Energy and Commerce,Cathy McMorris Rodgers,NULL
+H,Energy and Commerce,Jerry McNerney,NULL
+H,Energy and Commerce,Markwayne Mullin,NULL
+H,Energy and Commerce,Pete Olson,NULL
+H,Energy and Commerce,Scott Peters,NULL
+H,Energy and Commerce,Raul Ruiz,NULL
+H,Energy and Commerce,Bobby Rush,NULL
+H,Energy and Commerce,John Sarbanes,NULL
+H,Energy and Commerce,Steve Scalise,NULL
+H,Energy and Commerce,Janice Jan Schakowsky,NULL
+H,Energy and Commerce,Kurt Schrader,NULL
+H,Energy and Commerce,Paul Tonko,NULL
+H,Energy and Commerce,Tim Walberg,NULL
+H,Energy and Commerce,Mimi Walters,NULL
+H,Energy and Commerce,Peter Welch,NULL
+H,Ethics,Susan Brooks,Chairman
+H,Ethics,Theodore Deutch,Ranking Member
+H,Ethics,Anthony Brown,NULL
+H,Ethics,Yvette Clarke,NULL
+H,Ethics,Steve Cohen,NULL
+H,Ethics,Trey Gowdy,NULL
+H,Ethics,Leonard Lance,NULL
+H,Ethics,Kenny Marchant,NULL
+H,Ethics,PRickeehan,NULL
+H,Ethics,Jared Polis,NULL
+H,Financial Services,Jeb Hensarling,Chairman
+H,Financial Services,Maxine Waters,Ranking Member
+H,Financial Services,Garland Andy Barr,Subcommittee Chair: Monetary Policy and Trade
+H,Financial Services,Sean Duffy,Subcommittee Chair: Housing and Insurance
+H,Financial Services,Bill Huizenga,"Subcommittee Chair: CapitaMarks, Securities, and Investment"
+H,Financial Services,Blaine Luetkemeyer,Subcommittee Chair: Financial Institutions and Consumer Credit
+H,Financial Services,Stevan Steve Pearce,Subcommittee Chair: Terrorism and Illicit Finance
+H,Financial Services,Ann Wagner,Subcommittee Chair: Oversight and Investigations
+H,Financial Services,Joyce Beatty,NULL
+H,Financial Services,Ted Budd,NULL
+H,Financial Services,Michael Capuano,NULL
+H,Financial Services,Lacy Clay Jr.,NULL
+H,Financial Services,Emanuel Cleaver II,NULL
+H,Financial Services,Charlie Crist,NULL
+H,Financial Services,Warren Davidson,NULL
+H,Financial Services,John Delaney,NULL
+H,Financial Services,Keith Ellison,NULL
+H,Financial Services,Tom Emmer,NULL
+H,Financial Services,Bill Foster,NULL
+H,Financial Services,Vicente Gonzalez,NULL
+H,Financial Services,Josh Gottheimer,NULL
+H,Financial Services,Al Green,NULL
+H,Financial Services,Denny Heck,NULL
+H,Financial Services,French Hill,NULL
+H,Financial Services,James Himes,NULL
+H,Financial Services,Trey Hollingsworth,NULL
+H,Financial Services,Randy Hultgren,NULL
+H,Financial Services,Ruben Kihuen,NULL
+H,Financial Services,Daniel Kildee,NULL
+H,Financial Services,Peter Pete King,NULL
+H,Financial Services,David Kustoff,NULL
+H,Financial Services,Barry Loudermilk,NULL
+H,Financial Services,Mia Love,NULL
+H,Financial Services,Frank Lucas,NULL
+H,Financial Services,Stephen Lynch,NULL
+H,Financial Services,Tom MacArthur,NULL
+H,Financial Services,Carolyn Maloney,NULL
+H,Financial Services,PRickcHenry,NULL
+H,Financial Services,Gregory Meeks,NULL
+H,Financial Services,Luke Messer,NULL
+H,Financial Services,Alex Mooney,NULL
+H,Financial Services,Gwen Moore,NULL
+H,Financial Services,Ed Perlmutter,NULL
+H,Financial Services,Robert Pittenger,NULL
+H,Financial Services,Bruce Poliquin,NULL
+H,Financial Services,Bill Posey,NULL
+H,Financial Services,Dennis Ross,NULL
+H,Financial Services,Keith Rothfus,NULL
+H,Financial Services,Edward Ed Royce,NULL
+H,Financial Services,David Scott,NULL
+H,Financial Services,Brad Sherman,NULL
+H,Financial Services,Kyrsten Sinema,NULL
+H,Financial Services,Steve Stivers,NULL
+H,Financial Services,Claudia Tenney,NULL
+H,Financial Services,Scott Tipton,NULL
+H,Financial Services,Dave Trott,NULL
+H,Financial Services,Juan Vargas,NULL
+H,Financial Services,Nydia Velzquez,NULL
+H,Financial Services,Roger Williams,NULL
+H,Financial Services,Lee Zeldin,NULL
+H,Foreign Affairs,Edward Ed Royce,Chairman
+H,Foreign Affairs,Eliot Engel,Ranking Member
+H,Foreign Affairs,Karen Bass,NULL
+H,Foreign Affairs,Ami Bera,NULL
+H,Foreign Affairs,Brendan Boyle,NULL
+H,Foreign Affairs,Mo Brooks,NULL
+H,Foreign Affairs,Joaquin Castro,NULL
+H,Foreign Affairs,Steve Chabot,NULL
+H,Foreign Affairs,David Cicilline,NULL
+H,Foreign Affairs,Gerald Connolly,NULL
+H,Foreign Affairs,Paul Cook,NULL
+H,Foreign Affairs,Ron DeSantis,NULL
+H,Foreign Affairs,Theodore Deutch,NULL
+H,Foreign Affairs,Daniel Donovan Jr.,NULL
+H,Foreign Affairs,Jeff Duncan,NULL
+H,Foreign Affairs,Adriano Espaillat,NULL
+H,Foreign Affairs,Brian FiPatck,NULL
+H,Foreign Affairs,Lois Frankel,NULL
+H,Foreign Affairs,Tulsi Gabbard,NULL
+H,Foreign Affairs,Thomas Garrett,NULL
+H,Foreign Affairs,Darrell Issa,NULL
+H,Foreign Affairs,William Keating,NULL
+H,Foreign Affairs,Robin Kelly,NULL
+H,Foreign Affairs,Adam Kinzinger,NULL
+H,Foreign Affairs,Ted Lieu,NULL
+H,Foreign Affairs,Tom Marino,NULL
+H,Foreign Affairs,Brian Mast,NULL
+H,Foreign Affairs,Michael McCaul,NULL
+H,Foreign Affairs,Mark Meadows,NULL
+H,Foreign Affairs,Gregory Meeks,NULL
+H,Foreign Affairs,Scott Perry,NULL
+H,Foreign Affairs,Ted Poe,NULL
+H,Foreign Affairs,Dana Rohrabacher,NULL
+H,Foreign Affairs,Francis Rooney,NULL
+H,Foreign Affairs,Ileana Ros-Lehtinen,NULL
+H,Foreign Affairs,Bradley Schneider,NULL
+H,Foreign Affairs,James Sensenbrenner Jr.,NULL
+H,Foreign Affairs,Brad Sherman,NULL
+H,Foreign Affairs,Albio Sires,NULL
+H,Foreign Affairs,Christopher Chris Smith,NULL
+H,Foreign Affairs,Thomas Suozzi,NULL
+H,Foreign Affairs,Dina Titus,NULL
+H,Foreign Affairs,Norma Torres,NULL
+H,Foreign Affairs,Ann Wagner,NULL
+H,Foreign Affairs,Joe Wilson,NULL
+H,Foreign Affairs,Ted Yoho,NULL
+H,Foreign Affairs,Lee Zeldin,NULL
+H,Homeland Security,Michael McCaul,Chairman
+H,Homeland Security,Bennie Thompson,Ranking Member
+H,Homeland Security,Daniel Donovan Jr.,"Subcommittee Chair: Emergency Preparedness, Response, and Communications"
+H,Homeland Security,John Katko,Subcommittee Chair: Transportation and Protective Security
+H,Homeland Security,Peter Pete King,Subcommittee Chair: Counterterrorism and Intelligence
+H,Homeland Security,Martha McSally,Subcommittee Chair: Border and Maritime Security
+H,Homeland Security,Scott Perry,Subcommittee Chair: Oversight and Management Efficiency
+H,Homeland Security,John Ratcliffe,Subcommittee Chair: Cybersecurity and Infrastructure Protection
+H,Homeland Security,Lou Barletta,NULL
+H,Homeland Security,Nanette Barragn,NULL
+H,Homeland Security,Luis Correa,NULL
+H,Homeland Security,Val Demings,NULL
+H,Homeland Security,Jeff Duncan,NULL
+H,Homeland Security,Brian FiPatck,NULL
+H,Homeland Security,Mike Gallagher,NULL
+H,Homeland Security,Thomas Garrett,NULL
+H,Homeland Security,Clay Higgins,NULL
+H,Homeland Security,Will Hurd,NULL
+H,Homeland Security,Sheila Jackson Lee,NULL
+H,Homeland Security,William Keating,NULL
+H,Homeland Security,James Jim Langevin,NULL
+H,Homeland Security,Tom Marino,NULL
+H,Homeland Security,Donald Payne Jr.,NULL
+H,Homeland Security,Kathleen Rice,NULL
+H,Homeland Security,Cedric Richmond,NULL
+H,Homeland Security,Mike Rogers,NULL
+H,Homeland Security,John Rutherford,NULL
+H,Homeland Security,Lamar Smith,NULL
+H,Homeland Security,Filemon Vela,NULL
+H,Homeland Security,Bonnie Watson Coleman,NULL
+H,House Administration,Gregg Harper,Chairman
+H,House Administration,Robert Brady,Ranking Member
+H,House Administration,Barbara Comstock,NULL
+H,House Administration,Rodney Davis,NULL
+H,House Administration,Zoe Lofgren,NULL
+H,House Administration,Barry Loudermilk,NULL
+H,House Administration,Jamie Raskin,NULL
+H,House Administration,Adrian Smith,NULL
+H,House Administration,Mark Walker,NULL
+H,Intelligence,Devin Nunes,Chairman
+H,Intelligence,Adam Schiff,Ranking Member
+H,Intelligence,Peter Pete King,Subcommittee Chair: Emerging Threats
+H,Intelligence,Frank LoBiondo,Subcommittee Chair: Central Intelligence Agency
+H,Intelligence,Thomas Rooney,Subcommittee Chair: National Security Agency and Cybersecurity
+H,Intelligence,Chris Stewart,Subcommittee Chair: Department of Defense Intelligence and Overhead Architecture
+H,Intelligence,Andr Carson,NULL
+H,Intelligence,Joaquin Castro,NULL
+H,Intelligence,Michael Conaway,NULL
+H,Intelligence,Eric Rick Crawford,NULL
+H,Intelligence,Trey Gowdy,NULL
+H,Intelligence,Denny Heck,NULL
+H,Intelligence,James Himes,NULL
+H,Intelligence,Will Hurd,NULL
+H,Intelligence,Mike Quigley,NULL
+H,Intelligence,Ileana Ros-Lehtinen,NULL
+H,Intelligence,Terri Sewell,NULL
+H,Intelligence,Jackie Speier,NULL
+H,Intelligence,Elise Stefanik,NULL
+H,Intelligence,Eric Swalwell,NULL
+H,Intelligence,Michael Turner,NULL
+H,Intelligence,Brad Wenstrup,NULL
+H,the Judiciary,Bob Goodlatte,Chairman
+H,the Judiciary,John Conyers Jr.,Ranking Member
+H,the Judiciary,Trey Gowdy,"Subcommittee Chair: Crime, Terrorism, Homeland Security, and Investigations"
+H,the Judiciary,Darrell Issa,"Subcommittee Chair: Courts, Intellectual Property, and the Internet"
+H,the Judiciary,Steve King,Subcommittee Chair: The Constitution and Civil Justice
+H,the Judiciary,Tom Marino,"Subcommittee Chair: Regulatory Reform, Commercial and Antitrust Law"
+H,the Judiciary,James Sensenbrenner Jr.,Subcommittee Chair: Immigration and Border Security
+H,the Judiciary,Karen Bass,NULL
+H,the Judiciary,Andy Biggs,NULL
+H,the Judiciary,Ken Buck,NULL
+H,the Judiciary,Steve Chabot,NULL
+H,the Judiciary,Jason Chaffetz,NULL
+H,the Judiciary,David Cicilline,NULL
+H,the Judiciary,Steve Cohen,NULL
+H,the Judiciary,Doug Collins,NULL
+H,the Judiciary,Ron DeSantis,NULL
+H,the Judiciary,Theodore Deutch,NULL
+H,the Judiciary,Blake Farenthold,NULL
+H,the Judiciary,Trent Franks,NULL
+H,the Judiciary,Matt Gaetz,NULL
+H,the Judiciary,Louie Gohmert Jr.,NULL
+H,the Judiciary,Luis Gutirrez,NULL
+H,the Judiciary,Sheila Jackson Lee,NULL
+H,the Judiciary,Pramila Jayapal,NULL
+H,the Judiciary,Hakeem Jeffries,NULL
+H,the Judiciary,Henry Hank Johnson Jr.,NULL
+H,the Judiciary,Mike Johnson,NULL
+H,the Judiciary,Jim Jordan,NULL
+H,the Judiciary,Ral Labrador,NULL
+H,the Judiciary,Ted Lieu,NULL
+H,the Judiciary,Zoe Lofgren,NULL
+H,the Judiciary,Jerrold Nadler,NULL
+H,the Judiciary,Ted Poe,NULL
+H,the Judiciary,Jamie Raskin,NULL
+H,the Judiciary,John Ratcliffe,NULL
+H,the Judiciary,Cedric Richmond,NULL
+H,the Judiciary,Martha Roby,NULL
+H,the Judiciary,Bradley Schneider,NULL
+H,the Judiciary,Lamar Smith,NULL
+H,the Judiciary,Eric Swalwell,NULL
+H,Natural Resources,Rob Bishop,Chairman
+H,Natural Resources,Ral Grijalva,Ranking Member
+H,Natural Resources,Paul Gosar,Subcommittee Chair: Energy and Mineral Resources
+H,Natural Resources,Doug LaMalfa,"Subcommittee Chair: Indian, Insular and Alaska Native Affairs"
+H,Natural Resources,Ral Labrador,Subcommittee Chair: Oversight and Investigations
+H,Natural Resources,Doug Lamborn,"Subcommittee Chair: Water, Power and Oceans"
+H,Natural Resources,Tom McClintock,Subcommittee Chair: Federal Lands
+H,Natural Resources,Aumua Amata,NULL
+H,Natural Resources,Nanette Barragn,NULL
+H,Natural Resources,Jack Bergman,NULL
+H,Natural Resources,Donald Beyer,NULL
+H,Natural Resources,Madeleine Bordallo,NULL
+H,Natural Resources,Anthony Brown,NULL
+H,Natural Resources,Liz Cheney,NULL
+H,Natural Resources,Lacy Clay Jr.,NULL
+H,Natural Resources,Paul Cook,NULL
+H,Natural Resources,Jim Costa,NULL
+H,Natural Resources,Jeff Denham,NULL
+H,Natural Resources,Ruben Gallego,NULL
+H,Natural Resources,Louie Gohmert Jr.,NULL
+H,Natural Resources,Jenniffer Gonzlez-Coln,NULL
+H,Natural Resources,Garret Graves,NULL
+H,Natural Resources,Colleen Hanabusa,NULL
+H,Natural Resources,Jody Hice,NULL
+H,Natural Resources,Jared Huffman,NULL
+H,Natural Resources,Mike Johnson,NULL
+H,Natural Resources,Darin LaHood,NULL
+H,Natural Resources,Alan Lowenthal,NULL
+H,Natural Resources,Donald McEachin,NULL
+H,Natural Resources,Grace Napolitano,NULL
+H,Natural Resources,Jimmy Panetta,NULL
+H,Natural Resources,Stevan Steve Pearce,NULL
+H,Natural Resources,David Rouzer,NULL
+H,Natural Resources,Gregorio Sablan,NULL
+H,Natural Resources,Darren Soto,NULL
+H,Natural Resources,Glenn Thompson,NULL
+H,Natural Resources,Scott Tipton,NULL
+H,Natural Resources,Norma Torres,NULL
+H,Natural Resources,Niki Tsongas,NULL
+H,Natural Resources,Daniel Webster,NULL
+H,Natural Resources,Bruce Westerman,NULL
+H,Natural Resources,Robert Wittman,NULL
+H,Natural Resources,Don Young,NULL
+H,Oversight and Government Reform,Jason Chaffetz,Chairman
+H,Oversight and Government Reform,Elijah Cummings,Ranking Member
+H,Oversight and Government Reform,Ron DeSantis,Subcommittee Chair: National Security
+H,Oversight and Government Reform,Blake Farenthold,"Subcommittee Chair: The Interior, Energy and Environment"
+H,Oversight and Government Reform,Will Hurd,Subcommittee Chair: Information Technology
+H,Oversight and Government Reform,Jim Jordan,"Subcommittee Chair: Health Care, Benefits, and Administrative Rules"
+H,Oversight and Government Reform,Mark Meadows,Subcommittee Chair: Government Operations
+H,Oversight and Government Reform,Gary Palmer,Subcommittee Chair: Intergovernmental Affairs
+H,Oversight and Government Reform,Justin Amash,NULL
+H,Oversight and Government Reform,Rod Blum,NULL
+H,Oversight and Government Reform,Matthew Cartwright,NULL
+H,Oversight and Government Reform,Lacy Clay Jr.,NULL
+H,Oversight and Government Reform,James Comer,NULL
+H,Oversight and Government Reform,Gerald Connolly,NULL
+H,Oversight and Government Reform,Jim Cooper,NULL
+H,Oversight and Government Reform,Mark DeSaulnier,NULL
+H,Oversight and Government Reform,Val Demings,NULL
+H,Oversight and Government Reform,Scott DesJarlais,NULL
+H,Oversight and Government Reform,JohJim Duncan Jr.,NULL
+H,Oversight and Government Reform,Virginia Foxx,NULL
+H,Oversight and Government Reform,Paul Gosar,NULL
+H,Oversight and Government Reform,Trey Gowdy,NULL
+H,Oversight and Government Reform,Glenn Grothman,NULL
+H,Oversight and Government Reform,Jody Hice,NULL
+H,Oversight and Government Reform,Darrell Issa,NULL
+H,Oversight and Government Reform,Robin Kelly,NULL
+H,Oversight and Government Reform,Raja Krishnamoorthi,NULL
+H,Oversight and Government Reform,Brenda Lawrence,NULL
+H,Oversight and Government Reform,Stephen Lynch,NULL
+H,Oversight and Government Reform,Carolyn Maloney,NULL
+H,Oversight and Government Reform,Thomas Massie,NULL
+H,Oversight and Government Reform,Paul Mitchell,NULL
+H,Oversight and Government Reform,Eleanor Norton,NULL
+H,Oversight and Government Reform,Stacey Plaskett,NULL
+H,Oversight and Government Reform,Jamie Raskin,NULL
+H,Oversight and Government Reform,Dennis Ross,NULL
+H,Oversight and Government Reform,Steve Russell,NULL
+H,Oversight and Government Reform,Marshall Mark Sanford,NULL
+H,Oversight and Government Reform,John Sarbanes,NULL
+H,Oversight and Government Reform,Mark Walker,NULL
+H,Oversight and Government Reform,Bonnie Watson Coleman,NULL
+H,Oversight and Government Reform,Peter Welch,NULL
+H,Rules,Pete Sessions,Chairman
+H,Rules,Louise Slaughter,Ranking Member
+H,Rules,Ken Buck,NULL
+H,Rules,Michael Burgess,NULL
+H,Rules,Bradley Byrne,NULL
+H,Rules,Liz Cheney,NULL
+H,Rules,Tom Cole,NULL
+H,Rules,Doug Collins,NULL
+H,Rules,Alcee Hastings,NULL
+H,Rules,James Jim McGovern,NULL
+H,Rules,Dan Newhouse,NULL
+H,Rules,Jared Polis,NULL
+H,Rules,Rob Woodall,NULL
+H,"Science, Space, and Technology",Lamar Smith,Chairman
+H,"Science, Space, and Technology",Eddie Johnson,Ranking Member
+H,"Science, Space, and Technology",Brian Babin,Subcommittee Chair: Space
+H,"Science, Space, and Technology",Andy Biggs,Subcommittee Chair: Environment
+H,"Science, Space, and Technology",Barbara Comstock,Subcommittee Chair: Research and Technology
+H,"Science, Space, and Technology",Darin LaHood,Subcommittee Chair: Oversight
+H,"Science, Space, and Technology",Randy Weber,Subcommittee Chair: Energy
+H,"Science, Space, and Technology",Ralph Abraham,NULL
+H,"Science, Space, and Technology",Jim Banks,NULL
+H,"Science, Space, and Technology",Ami Bera,NULL
+H,"Science, Space, and Technology",Donald Beyer,NULL
+H,"Science, Space, and Technology",Suzanne Bonamici,NULL
+H,"Science, Space, and Technology",Jim Bridenstine,NULL
+H,"Science, Space, and Technology",Mo Brooks,NULL
+H,"Science, Space, and Technology",Charlie Crist,NULL
+H,"Science, Space, and Technology",Neal Dunn,NULL
+H,"Science, Space, and Technology",Elizabeth Esty,NULL
+H,"Science, Space, and Technology",Bill Foster,NULL
+H,"Science, Space, and Technology",Colleen Hanabusa,NULL
+H,"Science, Space, and Technology",Clay Higgins,NULL
+H,"Science, Space, and Technology",Randy Hultgren,NULL
+H,"Science, Space, and Technology",Steve Knight,NULL
+H,"Science, Space, and Technology",Daniel Lipinski,NULL
+H,"Science, Space, and Technology",Zoe Lofgren,NULL
+H,"Science, Space, and Technology",Barry Loudermilk,NULL
+H,"Science, Space, and Technology",Frank Lucas,NULL
+H,"Science, Space, and Technology",Roger Marshall,NULL
+H,"Science, Space, and Technology",Thomas Massie,NULL
+H,"Science, Space, and Technology",Jerry McNerney,NULL
+H,"Science, Space, and Technology",Gary Palmer,NULL
+H,"Science, Space, and Technology",Ed Perlmutter,NULL
+H,"Science, Space, and Technology",Bill Posey,NULL
+H,"Science, Space, and Technology",Dana Rohrabacher,NULL
+H,"Science, Space, and Technology",Jacky Rosen,NULL
+H,"Science, Space, and Technology",Mark Takano,NULL
+H,"Science, Space, and Technology",Paul Tonko,NULL
+H,"Science, Space, and Technology",Marc Veasey,NULL
+H,"Science, Space, and Technology",Daniel Webster,NULL
+H,Small Business,Steve Chabot,Chairman
+H,Small Business,Nydia Velzquez,Ranking Member
+H,Small Business,Aumua Amata,Subcommittee Chair: Health and Technology
+H,Small Business,Rod Blum,"Subcommittee Chair: Agriculture, Energy and Trade"
+H,Small Business,David Dave Brat,"Subcommittee Chair: Economic Growth, Tax and Capital Access"
+H,Small Business,Trent Kelly,"Subcommittee Chair: Investigations, Oversight and Regulations"
+H,Small Business,Steve Knight,Subcommittee Chair: Contracting and Workforce
+H,Small Business,Alma Adams,NULL
+H,Small Business,Don Bacon,NULL
+H,Small Business,Judy Chu,NULL
+H,Small Business,Yvette Clarke,NULL
+H,Small Business,James Comer,NULL
+H,Small Business,Adriano Espaillat,NULL
+H,Small Business,Dwight Evans,NULL
+H,Small Business,Brian FiPatck,NULL
+H,Small Business,Jenniffer Gonzlez-Coln,NULL
+H,Small Business,Steve King,NULL
+H,Small Business,Al Lawson,NULL
+H,Small Business,Blaine Luetkemeyer,NULL
+H,Small Business,Roger Marshall,NULL
+H,Small Business,Stephanie Murphy,NULL
+H,Small Business,Bradley Schneider,NULL
+H,Transportation and Infrastructure,Bill Shuster,Chairman
+H,Transportation and Infrastructure,JohJim Duncan Jr.,Vice Chairman
+H,Transportation and Infrastructure,Peter DeFazio,Ranking Member
+H,Transportation and Infrastructure,Lou Barletta,"Subcommittee Chair: Economic Development, Public Buildings, and Emergency Management"
+H,Transportation and Infrastructure,Jeff Denham,"Subcommittee Chair: Railroads, Pipelines, and Hazardous Materials"
+H,Transportation and Infrastructure,Garret Graves,Subcommittee Chair: Water Resources and Environment
+H,Transportation and Infrastructure,Sam Graves,Subcommittee Chair: Highways and Transit
+H,Transportation and Infrastructure,Duncan Hunter,Subcommittee Chair: Coast Guard and Maritime Transportation
+H,Transportation and Infrastructure,Frank LoBiondo,Subcommittee Chair: Aviation
+H,Transportation and Infrastructure,Brian Babin,NULL
+H,Transportation and Infrastructure,Mike Bost,NULL
+H,Transportation and Infrastructure,Julia Brownley,NULL
+H,Transportation and Infrastructure,Cheri Bustos,NULL
+H,Transportation and Infrastructure,Michael Capuano,NULL
+H,Transportation and Infrastructure,Andr Carson,NULL
+H,Transportation and Infrastructure,Steve Cohen,NULL
+H,Transportation and Infrastructure,Barbara Comstock,NULL
+H,Transportation and Infrastructure,Eric Rick Crawford,NULL
+H,Transportation and Infrastructure,Elijah Cummings,NULL
+H,Transportation and Infrastructure,Rodney Davis,NULL
+H,Transportation and Infrastructure,Mark DeSaulnier,NULL
+H,Transportation and Infrastructure,Elizabeth Esty,NULL
+H,Transportation and Infrastructure,Blake Farenthold,NULL
+H,Transportation and Infrastructure,John Faso,NULL
+H,Transportation and Infrastructure,Drew Ferguson IV,NULL
+H,Transportation and Infrastructure,Lois Frankel,NULL
+H,Transportation and Infrastructure,John Garamendi,NULL
+H,Transportation and Infrastructure,Bob Gibbs,NULL
+H,Transportation and Infrastructure,Jared Huffman,NULL
+H,Transportation and Infrastructure,Eddie Johnson,NULL
+H,Transportation and Infrastructure,Henry Hank Johnson Jr.,NULL
+H,Transportation and Infrastructure,John Katko,NULL
+H,Transportation and Infrastructure,Doug LaMalfa,NULL
+H,Transportation and Infrastructure,Rick Larsen,NULL
+H,Transportation and Infrastructure,Brenda Lawrence,NULL
+H,Transportation and Infrastructure,Jason Lewis,NULL
+H,Transportation and Infrastructure,Daniel Lipinski,NULL
+H,Transportation and Infrastructure,Alan Lowenthal,NULL
+H,Transportation and Infrastructure,Sean Maloney,NULL
+H,Transportation and Infrastructure,Thomas Massie,NULL
+H,Transportation and Infrastructure,Brian Mast,NULL
+H,Transportation and Infrastructure,Mark Meadows,NULL
+H,Transportation and Infrastructure,Paul Mitchell,NULL
+H,Transportation and Infrastructure,Jerrold Nadler,NULL
+H,Transportation and Infrastructure,Grace Napolitano,NULL
+H,Transportation and Infrastructure,Richard Nolan,NULL
+H,Transportation and Infrastructure,Eleanor Norton,NULL
+H,Transportation and Infrastructure,Donald Payne Jr.,NULL
+H,Transportation and Infrastructure,Scott Perry,NULL
+H,Transportation and Infrastructure,Todd Rokita,NULL
+H,Transportation and Infrastructure,David Rouzer,NULL
+H,Transportation and Infrastructure,Marshall Mark Sanford,NULL
+H,Transportation and Infrastructure,Albio Sires,NULL
+H,Transportation and Infrastructure,Lloyd Smucker,NULL
+H,Transportation and Infrastructure,Dina Titus,NULL
+H,Transportation and Infrastructure,Randy Weber,NULL
+H,Transportation and Infrastructure,Daniel Webster,NULL
+H,Transportation and Infrastructure,Bruce Westerman,NULL
+H,Transportation and Infrastructure,Frederica Wilson,NULL
+H,Transportation and Infrastructure,Rob Woodall,NULL
+H,Transportation and Infrastructure,Don Young,NULL
+H,Veterans' Affairs,David Phil Roe,Chairman
+H,Veterans' Affairs,Timothy Walz,Ranking Member
+H,Veterans' Affairs,Jodey Arrington,Subcommittee Chair: Economic Opportunity
+H,Veterans' Affairs,Jack Bergman,Subcommittee Chair: Oversight and Investigations
+H,Veterans' Affairs,Mike Bost,Subcommittee Chair: Disability Assistance and Memorial Affairs
+H,Veterans' Affairs,Brad Wenstrup,Subcommittee Chair: Health
+H,Veterans' Affairs,Aumua Amata,NULL
+H,Veterans' Affairs,Jim Banks,NULL
+H,Veterans' Affairs,Gus Bilirakis,NULL
+H,Veterans' Affairs,Julia Brownley,NULL
+H,Veterans' Affairs,Mike Coffman,NULL
+H,Veterans' Affairs,Luis Correa,NULL
+H,Veterans' Affairs,Neal Dunn,NULL
+H,Veterans' Affairs,Elizabeth Esty,NULL
+H,Veterans' Affairs,Jenniffer Gonzlez-Coln,NULL
+H,Veterans' Affairs,Clay Higgins,NULL
+H,Veterans' Affairs,Ann Kuster,NULL
+H,Veterans' Affairs,Beto O'Rourke,NULL
+H,Veterans' Affairs,Scott Peters,NULL
+H,Veterans' Affairs,Bruce Poliquin,NULL
+H,Veterans' Affairs,Kathleen Rice,NULL
+H,Veterans' Affairs,John Rutherford,NULL
+H,Veterans' Affairs,Gregorio Sablan,NULL
+H,Veterans' Affairs,Mark Takano,NULL
+H,Ways and Means,Kevin Brady,Chairman
+H,Ways and Means,Richard Neal,Ranking Member
+H,Ways and Means,Vern Buchanan,Subcommittee Chair: Oversight
+H,Ways and Means,Sam Johnson,Subcommittee Chair: Social Security
+H,Ways and Means,David Reichert,Subcommittee Chair: Trade
+H,Ways and Means,Peter Roskam,Subcommittee Chair: Tax Policy
+H,Ways and Means,Adrian Smith,Subcommittee Chair: Human Resources
+H,Ways and Means,PRickat Tiberi,Subcommittee Chair: Health
+H,Ways and Means,Mike Bishop,NULL
+H,Ways and Means,Diane Black,NULL
+H,Ways and Means,Earl Blumenauer,NULL
+H,Ways and Means,Judy Chu,NULL
+H,Ways and Means,Joseph Joe Crowley,NULL
+H,Ways and Means,Carlos Curbelo,NULL
+H,Ways and Means,Danny Davis,NULL
+H,Ways and Means,Suzan DelBene,NULL
+H,Ways and Means,Lloyd Doggett,NULL
+H,Ways and Means,Brian Higgins,NULL
+H,Ways and Means,George Holding,NULL
+H,Ways and Means,Lynn Jenkins,NULL
+H,Ways and Means,Mike Kelly,NULL
+H,Ways and Means,Ron Kind,NULL
+H,Ways and Means,John Larson,NULL
+H,Ways and Means,Sander Levin,NULL
+H,Ways and Means,John Lewis,NULL
+H,Ways and Means,Kenny Marchant,NULL
+H,Ways and Means,PRickeehan,NULL
+H,Ways and Means,Kristi Noem,NULL
+H,Ways and Means,Devin Nunes,NULL
+H,Ways and Means,Bill Pascrell Jr.,NULL
+H,Ways and Means,Erik Paulsen,NULL
+H,Ways and Means,Tom Reed II,NULL
+H,Ways and Means,James Renacci,NULL
+H,Ways and Means,Tom Rice,NULL
+H,Ways and Means,David Schweikert,NULL
+H,Ways and Means,Terri Sewell,NULL
+H,Ways and Means,Jason Smith,NULL
+H,Ways and Means,Linda Snchez,NULL
+H,Ways and Means,Mike Thompson,NULL
+H,Ways and Means,Jackie Walorski,NULL
+J,Commission on Security and Cooperation in Europe,Christopher Chris Smith,Chairman
+J,Commission on Security and Cooperation in Europe,Roger Wicker,Chairman
+J,Commission on Security and Cooperation in Europe,Robert Aderholt,NULL
+J,Commission on Security and Cooperation in Europe,John Boozman,NULL
+J,Commission on Security and Cooperation in Europe,Michael Burgess,NULL
+J,Commission on Security and Cooperation in Europe,Richard Burr,NULL
+J,Commission on Security and Cooperation in Europe,Benjamin Cardin,NULL
+J,Commission on Security and Cooperation in Europe,Steve Cohen,NULL
+J,Commission on Security and Cooperation in Europe,Alcee Hastings,NULL
+J,Commission on Security and Cooperation in Europe,Jeanne Shaheen,NULL
+J,Commission on Security and Cooperation in Europe,Louise Slaughter,NULL
+J,Commission on Security and Cooperation in Europe,Tom Udall,NULL
+J,Commission on Security and Cooperation in Europe,Sheldon Whitehouse,NULL
+J,Joint Committee on Printing,Roy Blunt,Vice Chairman
+J,Joint Committee on Printing,Gregg Harper,Vice Chairman
+J,Joint Committee on Printing,John Boozman,NULL
+J,Joint Committee on Printing,Robert Brady,NULL
+J,Joint Committee on Printing,PaRobts,NULL
+J,Joint Committee on Printing,Charles Chuck Schumer,NULL
+J,Joint Committee on Printing,Tom Udall,NULL
+J,Joint Committee on Printing,Juan Vargas,NULL
+J,Joint Committee on Taxation,Paul Ryan,Chairman
+J,Joint Committee on Taxation,Orrin Hatch,Vice Chairman
+J,Joint Committee on Taxation,Kevin Brady,NULL
+J,Joint Committee on Taxation,Michael Crapo,NULL
+J,Joint Committee on Taxation,Charles Chuck Grassley,NULL
+J,Joint Committee on Taxation,Sam Johnson,NULL
+J,Joint Committee on Taxation,Sander Levin,NULL
+J,Joint Committee on Taxation,Debbie Stabenow,NULL
+J,Joint Committee on Taxation,Ron Wyden,NULL
+J,Joint Committee on the Library,Roy Blunt,Chairman
+J,Joint Committee on the Library,Gregg Harper,Chairman
+J,Joint Committee on the Library,Robert Brady,NULL
+J,Joint Committee on the Library,Shelley Capito,NULL
+J,Joint Committee on the Library,Tom Cole,NULL
+J,Joint Committee on the Library,PRickeahy,NULL
+J,Joint Committee on the Library,Zoe Lofgren,NULL
+J,Joint Committee on the Library,PaRobts,NULL
+J,Joint Committee on the Library,Charles Chuck Schumer,NULL
+J,Joint Economic Committee,Kevin Brady,Chairman
+J,Joint Economic Committee,Mike Lee,Vice Chairman
+J,Joint Economic Committee,Justin Amash,NULL
+J,Joint Economic Committee,Bill Cassidy,NULL
+J,Joint Economic Committee,Tom Cotton,NULL
+J,Joint Economic Committee,Ted Cruz,NULL
+J,Joint Economic Committee,Elijah Cummings,NULL
+J,Joint Economic Committee,John Delaney,NULL
+J,Joint Economic Committee,Sean Duffy,NULL
+J,Joint Economic Committee,Margaret Maggie Hassan,NULL
+J,Joint Economic Committee,Martin Heinrich,NULL
+J,Joint Economic Committee,Amy Klobuchar,NULL
+J,Joint Economic Committee,Carolyn Maloney,NULL
+J,Joint Economic Committee,Erik Paulsen,NULL
+J,Joint Economic Committee,Gary Peters,NULL
+J,Joint Economic Committee,Robert Rob Portman,NULL
+J,Joint Economic Committee,Benjamin Sasse,NULL

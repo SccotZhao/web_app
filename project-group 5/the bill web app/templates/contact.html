@@ -1,0 +1,97 @@
+{% extends 'layout.html' %}
+{% block heading %}The name of the People{% endblock %}
+{% block content %}
+  <div id="main">
+
+    <header>
+	  <div id="strapline">
+	    <div id="welcome_slogan">
+	      <h3 class="introduction3"><span>Welcome</span> to The World of <span>Bills</span></h3>
+	    </div><!--close welcome_slogan-->
+          </div><!--close strapline-->
+	  <nav>
+	    <div id="menubar">
+              <ul id="nav">
+                <li><a href="/">Home</a></li>
+                <li><a href="{{url_for('politician')}}">People</a></li>
+                <li><a href="{{url_for('bill')}}">Bills</a></li>
+                <li><a href="{{url_for('sponsor')}}">Overview</a></li>
+                <li class="current"><a href="{{url_for('contact')}}">Contact Us</a></li>
+              </ul>
+            </div><!--close menubar-->
+         </nav>
+    </header>
+
+    <div id="slideshow_container">
+	  <div class="slideshow">
+	    <ul class="slideshow">
+              <li class="show"><img width="940" height="250" src="/static/images/home_1.jpg"  /></li>
+              <li><img width="940" height="250" src="static/images/home_2.jpg"  /></li>
+	      <li><img width="940" height="250" src="/static/images/home_3.jpeg"  /></li>
+             </ul>
+	  </div><!--close slideshow-->
+	</div><!--close slideshow_container-->
+
+	<div id="site_content">
+
+	  <div class="sidebar_container">
+		<div class="sidebar">
+          <div class="sidebar_item">
+            <h2>Welcome</h2>
+            <p>Welcome to our new website. Please have a look around, any feedback is much appreciated.</p>
+          </div><!--close sidebar_item-->
+        </div><!--close sidebar-->
+		<div class="sidebar">
+          <div class="sidebar_item">
+            <h1>Latest Update</h1>
+            <h2>April 2017</h2>
+            <p>Zhiyong, Chao, Elaine, AK.</p>
+		  </div><!--close sidebar_item-->
+        </div><!--close sidebar-->
+		<div class="sidebar">
+          <div class="sidebar_item">
+            <h2>March 2017</h2>
+            <p>Thanks for visiting our website.</p>
+		  </div><!--close sidebar_item-->
+        </div><!--close sidebar-->
+        <div class="sidebar">
+          <div class="sidebar_item">
+            <h2>Contact</h2>
+            <p>Phone: (919)8138696</p>
+            <p>Email: <a href="mailto:zhiyong.zhao@duke.edu">zhiyong.zhao@duke.edu</a></p>
+            <img width="24" height="25" src="/static/images/facebook.png"  />
+            <img width="24" height="25" src="/static/images/twitter.jpg"  />
+            <img width="24" height="25" src="/static/images/Google-plus-icon.png"  />
+          </div><!--close sidebar_item-->
+        </div><!--close sidebar-->
+       </div><!--close sidebar_container-->
+
+	  <div id="content">
+        <div class="content_item">
+		  <div class="form_settings">
+            <h2>Contact Us</h2>
+            <p style="padding-bottom: 15px;">A contact form for more details</p>
+			<p><span>Name</span><input class="contact" type="text" name="your_name" value="" /></p>
+            <p><span>Email Address</span><input class="contact" type="text" name="your_email" value="" /></p>
+			<p><span>Message</span><textarea class="contact textarea" rows="8" cols="50" name="your_message"></textarea></p>
+            <p style="padding: 10px 0 10px 0;">Please enter the answer to this simple maths question (to prevent spam)</p>
+			<p><span>Maths Question: 9 + 3 = ?</span><input type="text" name="user_answer" class="contact" /><input type="hidden" name="answer" value="4d76fe9775" /></p>
+            <p style="padding-top: 15px"><span>&nbsp;</span><input class="submit" type="submit" name="contact_submitted" value="Send" /></p>
+          </div><!--close form_settings-->
+		</div><!--close content_item-->
+      </div><!--close content-->
+	</div><!--close site_content-->
+   <footer>
+	  <a href="/">Home</a> | <a href="{{url_for('politician')}}">People</a> | <a href="{{url_for('bill')}}">Bills</a> | <a href="{{url_for('sponsor')}}">Overview</a> | <a href="{{url_for('contact')}}">Contact</a>
+          <br>
+          &copy Zhiyong Zhao,  Elaine M'NKubitu, Chao Yang, Akanksh Chaudhary
+   </footer>
+
+  </div><!--close main-->
+
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="/static/js/jquery.min.js"></script>
+  <script type="text/javascript" src="/static/js/image_slide.js"></script>
+  <script type="text/javascript" src="/static/js/modernizr-1.5.min.js"></script>
+
+{% endblock %}

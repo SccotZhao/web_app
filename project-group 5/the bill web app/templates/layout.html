@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content = "width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="/static/css/style.css">
+  
+
+    <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="/static/js/jquery.min.js"></script>
+  <script type="text/javascript" src="/static/js/image_slide.js"></script>
+  <script type="text/javascript" src="/static/js/modernizr-1.5.min.js"></script>
+
+
+<style> 
+h3 {
+    width: 700px;
+    height: 50px;
+    background-color: red;
+    position: relative;
+    -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    -webkit-animation-iteration-count: infinite; /* Safari 4.0 - 8.0 */
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes example {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:brown; left:230px; top:0px;}
+    50%  {background-color:blue; left:230px; top:0px;}
+    75%  {background-color:green; left:0px; top:0px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+
+/* Standard syntax */
+@keyframes example {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:brown; left:230px; top:0px;}
+    50%  {background-color:blue; left:230px; top:0px;}
+    75%  {background-color:green; left:0px; top:0px;}
+    100% {background-color:red; left:0px; top:0px;}
+}
+
+span b {
+  font-size: 20%;
+}
+
+a {
+color:blue;
+}
+
+#welcomep{
+background-color:lightblue;
+font-size: 16px;
+border-radius: 100px;
+border-style: ridge;
+padding-top: 1em;
+padding-bottom: 1em;
+padding-left: 3em;
+padding-right: 3em;
+border-width: 5px;
+border-color: green;
+}
+
+
+#welcome{
+margin-left: 180px;
+font-size: 30px;
+color: blue;
+}
+
+#welcomeMember{
+margin-left: 180px;
+font-size: 30px;
+color: blue;
+}
+
+
+h1.tab 
+{border-style: dotted;
+color:blue;
+border-width: 5px;
+border-left: 6px solid red;
+border-right: 6px solid red;
+border-radius: 5px;
+}
+
+input[type=submit] {
+    width: 30%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.introduction{
+background-color: #45a049;
+font-size:18px;
+border-radius: 50px;
+border-style: dotted;
+padding-top: 1em;
+padding-bottom: 1em;
+padding-left: 2em;
+padding-right: 2em;
+}
+
+.introduction1{
+
+font-size:18px;
+border-radius: 50px;
+border-style: dotted;
+padding-top: 1em;
+padding-bottom: 1em;
+padding-left: 2em;
+padding-right: 2em;
+margin-left: 0px;
+
+    background: -webkit-linear-gradient(red, yellow, green); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(red, yellow, green); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(red, yellow, green); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(red, yellow, green); /* Standard syntax (must be last) */
+
+
+
+}
+
+
+.introduction2:hover{
+font-size:18px;
+border-radius: 100px;
+border-style: dotted;
+padding-top: 1em;
+padding-bottom: 1em;
+padding-left: 2em;
+padding-right: 2em;
+text-shadow: 1px 0px 20px #ffd200;
+-webkit-transition: 1s linear 0s;
+-moz-transition: 1s linear 0s;
+-o-transition: 1s linear 0s;
+transition: 1s linear 0s;
+outline: 0 none;
+
+
+  background: red; /* For browsers that do not support gradients */
+  /* For Safari 5.1 to 6.0 */
+  background: -webkit-linear-gradient(left,red,orange,yellow,green,blue,indigo,violet);
+  /* For Opera 11.1 to 12.0 */
+  background: -o-linear-gradient(left,red,orange,yellow,green,blue,indigo,violet);
+  /* For Fx 3.6 to 15 */
+  background: -moz-linear-gradient(left,red,orange,yellow,green,blue,indigo,violet);
+  /* Standard syntax */
+  background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet); 
+
+}
+
+.introduction3{
+
+font-size:18px;
+border-radius: 50px;
+border-style: dotted;
+padding-top: 0em;
+padding-bottom: 0em;
+padding-left: 1em;
+padding-right: 1em;
+margin-left: 0px;
+
+}
+
+
+</style>
+
+
+
+
+
+</head>
+
+
+   
+    {% block content %}{% endblock %}
+
+
+</html>

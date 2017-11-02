@@ -1,0 +1,537 @@
+name,house_or_senate,state,party,since,gender,is_active
+Alma Adams,Representative,North Carolina,Democrat,12-Nov-14,f,TRUE
+Aumua Amata,Delegate,American Samoa,Republican,6-Jan-15,f,TRUE
+Tammy Baldwin,Senator,Wisconsin,Democrat,3-Jan-13,f,TRUE
+Nanette Barrag??n,Representative,California,Democrat,3-Jan-17,f,TRUE
+Karen Bass,Representative,California,Democrat,3-Jan-13,f,TRUE
+Joyce Beatty,Representative,Ohio,Democrat,3-Jan-13,f,TRUE
+Diane Black,Representative,Tennessee,Republican,5-Jan-11,f,TRUE
+Marsha Blackburn,Representative,Tennessee,Republican,7-Jan-03,f,TRUE
+Lisa Blunt Rochester,Representative,Delaware,Democrat,3-Jan-17,f,TRUE
+Suzanne Bonamici,Representative,Oregon,Democrat,7-Feb-12,f,TRUE
+Madeleine Bordallo,Delegate,Guam,Democrat,7-Jan-03,f,TRUE
+Susan Brooks,Representative,Indiana,Republican,3-Jan-13,f,TRUE
+Julia Brownley,Representative,California,Democrat,3-Jan-13,f,TRUE
+Cheri Bustos,Representative,Illinois,Democrat,3-Jan-13,f,TRUE
+Maria Cantwell,Senator,Washington,Democrat,3-Jan-01,f,TRUE
+Shelley Capito,Senator,West Virginia,Republican,6-Jan-15,f,TRUE
+Kathy Castor,Representative,Florida,Democrat,3-Jan-13,f,TRUE
+Liz Cheney,Representative,Wyoming,Republican,3-Jan-17,f,TRUE
+Judy Chu,Representative,California,Democrat,3-Jan-13,f,TRUE
+Katherine Clark,Representative,Massachusetts,Democrat,12-Dec-13,f,TRUE
+Yvette Clarke,Representative,New York,Democrat,3-Jan-13,f,TRUE
+Susan Collins,Senator,Maine,Republican,7-Jan-97,f,TRUE
+Barbara Comstock,Representative,Virginia,Republican,6-Jan-15,f,TRUE
+Catherine Cortez Masto,Senator,Nevada,Democrat,3-Jan-17,f,TRUE
+Susan Davis,Representative,California,Democrat,7-Jan-03,f,TRUE
+Diana DeGette,Representative,Colorado,Democrat,7-Jan-97,f,TRUE
+Rosa DeLauro,Representative,Connecticut,Democrat,3-Jan-91,f,TRUE
+Suzan DelBene,Representative,Washington,Democrat,13-Nov-12,f,TRUE
+Val Demings,Representative,Florida,Democrat,3-Jan-17,f,TRUE
+Debbie Dingell,Representative,Michigan,Democrat,6-Jan-15,f,TRUE
+Tammy Duckworth,Senator,Illinois,Democrat,3-Jan-17,f,TRUE
+Joni Ernst,Senator,Iowa,Republican,6-Jan-15,f,TRUE
+Anna Eshoo,Representative,California,Democrat,3-Jan-13,f,TRUE
+Elizabeth Esty,Representative,Connecticut,Democrat,3-Jan-13,f,TRUE
+Dianne Feinstein,Senator,California,Democrat,10-Nov-92,f,TRUE
+Deb Fischer,Senator,Nebraska,Republican,3-Jan-13,f,TRUE
+Virginia Foxx,Representative,North Carolina,Republican,4-Jan-05,f,TRUE
+Lois Frankel,Representative,Florida,Democrat,3-Jan-17,f,TRUE
+Marcia Fudge,Representative,Ohio,Democrat,19-Nov-08,f,TRUE
+Tulsi Gabbard,Representative,Hawaii,Democrat,3-Jan-13,f,TRUE
+Kirsten Gillibrand,Senator,New York,Democrat,27-Jan-09,f,TRUE
+Jenniffer Gonz??lez-Col??n,Resident Commissioner,Puerto Rico,Republican,3-Jan-17,f,TRUE
+Kay Granger,Representative,Texas,Republican,7-Jan-97,f,TRUE
+Colleen Hanabusa,Representative,Hawaii,Democrat,14-Nov-16,f,TRUE
+Kamala Harris,Senator,California,Democrat,3-Jan-17,f,TRUE
+Vicky Hartzler,Representative,Missouri,Republican,5-Jan-11,f,TRUE
+Margaret ??Maggie?? Hassan,Senator,New Hampshire,Democrat,3-Jan-17,f,TRUE
+Heidi Heitkamp,Senator,North Dakota,Democrat,3-Jan-13,f,TRUE
+Jaime Herrera Beutler,Representative,Washington,Republican,5-Jan-11,f,TRUE
+Mazie Hirono,Senator,Hawaii,Democrat,3-Jan-13,f,TRUE
+Sheila Jackson Lee,Representative,Texas,Democrat,4-Jan-95,f,TRUE
+Pramila Jayapal,Representative,Washington,Democrat,3-Jan-17,f,TRUE
+Lynn Jenkins,Representative,Kansas,Republican,6-Jan-09,f,TRUE
+Eddie Johnson,Representative,Texas,Democrat,5-Jan-93,f,TRUE
+Marcy Kaptur,Representative,Ohio,Democrat,3-Jan-83,f,TRUE
+Robin Kelly,Representative,Illinois,Democrat,9-Apr-13,f,TRUE
+Amy Klobuchar,Senator,Minnesota,Democrat,4-Jan-07,f,TRUE
+Ann Kuster,Representative,New Hampshire,Democrat,3-Jan-13,f,TRUE
+Brenda Lawrence,Representative,Michigan,Democrat,6-Jan-15,f,TRUE
+Barbara Lee,Representative,California,Democrat,3-Jan-13,f,TRUE
+Zoe Lofgren,Representative,California,Democrat,3-Jan-13,f,TRUE
+Mia Love,Representative,Utah,Republican,6-Jan-15,f,TRUE
+Nita Lowey,Representative,New York,Democrat,3-Jan-13,f,TRUE
+Michelle Lujan Grisham,Representative,New Mexico,Democrat,3-Jan-13,f,TRUE
+Carolyn Maloney,Representative,New York,Democrat,3-Jan-13,f,TRUE
+Doris Matsui,Representative,California,Democrat,3-Jan-13,f,TRUE
+Claire McCaskill,Senator,Missouri,Democrat,4-Jan-07,f,TRUE
+Betty McCollum,Representative,Minnesota,Democrat,3-Jan-01,f,TRUE
+Cathy McMorris Rodgers,Representative,Washington,Republican,4-Jan-05,f,TRUE
+Martha McSally,Representative,Arizona,Republican,6-Jan-15,f,TRUE
+Grace Meng,Representative,New York,Democrat,3-Jan-13,f,TRUE
+Gwen Moore,Representative,Wisconsin,Democrat,4-Jan-05,f,TRUE
+Lisa Murkowski,Senator,Alaska,Republican,7-Jan-03,f,TRUE
+Stephanie Murphy,Representative,Florida,Democrat,3-Jan-17,f,TRUE
+Patty Murray,Senator,Washington,Democrat,5-Jan-93,f,TRUE
+Grace Napolitano,Representative,California,Democrat,3-Jan-13,f,TRUE
+Kristi Noem,Representative,South Dakota,Republican,5-Jan-11,f,TRUE
+Eleanor Norton,Delegate,the District of Columbia,Democrat,3-Jan-91,f,TRUE
+Nancy Pelosi,Representative,California,Democrat,3-Jan-13,f,TRUE
+Chellie Pingree,Representative,Maine,Democrat,6-Jan-09,f,TRUE
+Stacey Plaskett,Delegate,the Virgin Islands,Democrat,6-Jan-15,f,TRUE
+Kathleen Rice,Representative,New York,Democrat,6-Jan-15,f,TRUE
+Martha Roby,Representative,Alabama,Republican,5-Jan-11,f,TRUE
+Ileana Ros-Lehtinen,Representative,Florida,Republican,3-Jan-13,f,TRUE
+Jacky Rosen,Representative,Nevada,Democrat,3-Jan-17,f,TRUE
+Lucille Roybal-Allard,Representative,California,Democrat,3-Jan-13,f,TRUE
+Janice ??Jan?? Schakowsky,Representative,Illinois,Democrat,6-Jan-99,f,TRUE
+Terri Sewell,Representative,Alabama,Democrat,5-Jan-11,f,TRUE
+Jeanne Shaheen,Senator,New Hampshire,Democrat,6-Jan-09,f,TRUE
+Carol Shea-Porter,Representative,New Hampshire,Democrat,3-Jan-17,f,TRUE
+Kyrsten Sinema,Representative,Arizona,Democrat,3-Jan-13,f,TRUE
+Louise Slaughter,Representative,New York,Democrat,3-Jan-13,f,TRUE
+Jackie Speier,Representative,California,Democrat,3-Jan-13,f,TRUE
+Debbie Stabenow,Senator,Michigan,Democrat,3-Jan-01,f,TRUE
+Elise Stefanik,Representative,New York,Republican,6-Jan-15,f,TRUE
+Linda S??nchez,Representative,California,Democrat,3-Jan-13,f,TRUE
+Claudia Tenney,Representative,New York,Republican,3-Jan-17,f,TRUE
+Dina Titus,Representative,Nevada,Democrat,3-Jan-13,f,TRUE
+Norma Torres,Representative,California,Democrat,6-Jan-15,f,TRUE
+Niki Tsongas,Representative,Massachusetts,Democrat,3-Jan-13,f,TRUE
+Nydia Vel??zquez,Representative,New York,Democrat,3-Jan-13,f,TRUE
+Ann Wagner,Representative,Missouri,Republican,3-Jan-13,f,TRUE
+Jackie Walorski,Representative,Indiana,Republican,3-Jan-13,f,TRUE
+Mimi Walters,Representative,California,Republican,6-Jan-15,f,TRUE
+Elizabeth Warren,Senator,Massachusetts,Democrat,3-Jan-13,f,TRUE
+Debbie Wasserman Schultz,Representative,Florida,Democrat,3-Jan-13,f,TRUE
+Maxine Waters,Representative,California,Democrat,3-Jan-13,f,TRUE
+Bonnie Watson Coleman,Representative,New Jersey,Democrat,6-Jan-15,f,TRUE
+Frederica Wilson,Representative,Florida,Democrat,3-Jan-13,f,TRUE
+Ralph Abraham,Representative,Louisiana,Republican,6-Jan-15,m,TRUE
+Robert Aderholt,Representative,Alabama,Republican,7-Jan-97,m,TRUE
+Pete Aguilar,Representative,California,Democrat,6-Jan-15,m,TRUE
+Lamar Alexander,Senator,Tennessee,Republican,7-Jan-03,m,TRUE
+Rick Allen,Representative,Georgia,Republican,6-Jan-15,m,TRUE
+Justin Amash,Representative,Michigan,Republican,5-Jan-11,m,TRUE
+Mark Amodei,Representative,Nevada,Republican,13-Sep-11,m,TRUE
+Jodey Arrington,Representative,Texas,Republican,3-Jan-17,m,TRUE
+Brian Babin,Representative,Texas,Republican,6-Jan-15,m,TRUE
+Don Bacon,Representative,Nebraska,Republican,3-Jan-17,m,TRUE
+Jim Banks,Representative,Indiana,Republican,3-Jan-17,m,TRUE
+Lou Barletta,Representative,Pennsylvania,Republican,5-Jan-11,m,TRUE
+Garland ??Andy?? Barr,Representative,Kentucky,Republican,3-Jan-13,m,TRUE
+John Barrasso,Senator,Wyoming,Republican,25-Jun-07,m,TRUE
+Joe Barton,Representative,Texas,Republican,3-Jan-85,m,TRUE
+Michael Bennet,Senator,Colorado,Democrat,22-Jan-09,m,TRUE
+Ami Bera,Representative,California,Democrat,3-Jan-13,m,TRUE
+Jack Bergman,Representative,Michigan,Republican,3-Jan-17,m,TRUE
+Donald Beyer,Representative,Virginia,Democrat,6-Jan-15,m,TRUE
+Andy Biggs,Representative,Arizona,Republican,3-Jan-17,m,TRUE
+Gus Bilirakis,Representative,Florida,Republican,3-Jan-13,m,TRUE
+Mike Bishop,Representative,Michigan,Republican,6-Jan-15,m,TRUE
+Rob Bishop,Representative,Utah,Republican,7-Jan-03,m,TRUE
+Sanford Bishop Jr.,Representative,Georgia,Democrat,5-Jan-93,m,TRUE
+Rod Blum,Representative,Iowa,Republican,6-Jan-15,m,TRUE
+Earl Blumenauer,Representative,Oregon,Democrat,21-May-96,m,TRUE
+Richard Blumenthal,Senator,Connecticut,Democrat,5-Jan-11,m,TRUE
+Roy Blunt,Senator,Missouri,Republican,5-Jan-11,m,TRUE
+Cory Booker,Senator,New Jersey,Democrat,31-Oct-13,m,TRUE
+John Boozman,Senator,Arkansas,Republican,5-Jan-11,m,TRUE
+Mike Bost,Representative,Illinois,Republican,6-Jan-15,m,TRUE
+Brendan Boyle,Representative,Pennsylvania,Democrat,6-Jan-15,m,TRUE
+Kevin Brady,Representative,Texas,Republican,7-Jan-97,m,TRUE
+Robert Brady,Representative,Pennsylvania,Democrat,19-May-98,m,TRUE
+David ??Dave?? Brat,Representative,Virginia,Republican,12-Nov-14,m,TRUE
+Jim Bridenstine,Representative,Oklahoma,Republican,3-Jan-13,m,TRUE
+Mo Brooks,Representative,Alabama,Republican,5-Jan-11,m,TRUE
+Anthony Brown,Representative,Maryland,Democrat,3-Jan-17,m,TRUE
+Sherrod Brown,Senator,Ohio,Democrat,4-Jan-07,m,TRUE
+Vern Buchanan,Representative,Florida,Republican,3-Jan-13,m,TRUE
+Ken Buck,Representative,Colorado,Republican,6-Jan-15,m,TRUE
+Larry Bucshon,Representative,Indiana,Republican,5-Jan-11,m,TRUE
+Ted Budd,Representative,North Carolina,Republican,3-Jan-17,m,TRUE
+Michael Burgess,Representative,Texas,Republican,7-Jan-03,m,TRUE
+Richard Burr,Senator,North Carolina,Republican,4-Jan-05,m,TRUE
+George ??G.K.?? Butterfield Jr.,Representative,North Carolina,Democrat,21-Jul-04,m,TRUE
+Bradley Byrne,Representative,Alabama,Republican,8-Jan-14,m,TRUE
+Ken Calvert,Representative,California,Republican,3-Jan-13,m,TRUE
+Michael Capuano,Representative,Massachusetts,Democrat,3-Jan-13,m,TRUE
+Salud Carbajal,Representative,California,Democrat,3-Jan-17,m,TRUE
+Benjamin Cardin,Senator,Maryland,Democrat,4-Jan-07,m,TRUE
+Thomas Carper,Senator,Delaware,Democrat,3-Jan-01,m,TRUE
+Andr?? Carson,Representative,Indiana,Democrat,13-Mar-08,m,TRUE
+Buddy Carter,Representative,Georgia,Republican,6-Jan-15,m,TRUE
+John Carter,Representative,Texas,Republican,7-Jan-03,m,TRUE
+Matthew Cartwright,Representative,Pennsylvania,Democrat,3-Jan-13,m,TRUE
+Robert ??Bob?? Casey Jr.,Senator,Pennsylvania,Democrat,4-Jan-07,m,TRUE
+Bill Cassidy,Senator,Louisiana,Republican,6-Jan-15,m,TRUE
+Joaquin Castro,Representative,Texas,Democrat,3-Jan-13,m,TRUE
+Steve Chabot,Representative,Ohio,Republican,5-Jan-11,m,TRUE
+Jason Chaffetz,Representative,Utah,Republican,6-Jan-09,m,TRUE
+David Cicilline,Representative,Rhode Island,Democrat,5-Jan-11,m,TRUE
+Lacy Clay Jr.,Representative,Missouri,Democrat,3-Jan-01,m,TRUE
+Emanuel Cleaver II,Representative,Missouri,Democrat,4-Jan-05,m,TRUE
+James ??Jim?? Clyburn,Representative,South Carolina,Democrat,5-Jan-93,m,TRUE
+Thad Cochran,Senator,Mississippi,Republican,15-Jan-79,m,TRUE
+Mike Coffman,Representative,Colorado,Republican,6-Jan-09,m,TRUE
+Steve Cohen,Representative,Tennessee,Democrat,4-Jan-07,m,TRUE
+Tom Cole,Representative,Oklahoma,Republican,7-Jan-03,m,TRUE
+Chris Collins,Representative,New York,Republican,3-Jan-13,m,TRUE
+Doug Collins,Representative,Georgia,Republican,3-Jan-13,m,TRUE
+James Comer,Representative,Kentucky,Republican,14-Nov-16,m,TRUE
+Michael Conaway,Representative,Texas,Republican,4-Jan-05,m,TRUE
+Gerald Connolly,Representative,Virginia,Democrat,6-Jan-09,m,TRUE
+John Conyers Jr.,Representative,Michigan,Democrat,3-Jan-13,m,TRUE
+Paul Cook,Representative,California,Republican,3-Jan-13,m,TRUE
+Chris Coons,Senator,Delaware,Democrat,15-Nov-10,m,TRUE
+Jim Cooper,Representative,Tennessee,Democrat,7-Jan-03,m,TRUE
+Bob Corker,Senator,Tennessee,Republican,4-Jan-07,m,TRUE
+John Cornyn,Senator,Texas,Republican,30-Nov-02,m,TRUE
+Luis Correa,Representative,California,Democrat,3-Jan-17,m,TRUE
+Jim Costa,Representative,California,Democrat,3-Jan-13,m,TRUE
+Ryan Costello,Representative,Pennsylvania,Republican,6-Jan-15,m,TRUE
+Tom Cotton,Senator,Arkansas,Republican,6-Jan-15,m,TRUE
+Joe Courtney,Representative,Connecticut,Democrat,4-Jan-07,m,TRUE
+Kevin Cramer,Representative,North Dakota,Republican,3-Jan-13,m,TRUE
+Michael Crapo,Senator,Idaho,Republican,6-Jan-99,m,TRUE
+Eric ??Rick?? Crawford,Representative,Arkansas,Republican,5-Jan-11,m,TRUE
+Charlie Crist,Representative,Florida,Democrat,3-Jan-17,m,TRUE
+Joseph ??Joe?? Crowley,Representative,New York,Democrat,3-Jan-13,m,TRUE
+Ted Cruz,Senator,Texas,Republican,3-Jan-13,m,TRUE
+Henry Cuellar,Representative,Texas,Democrat,4-Jan-05,m,TRUE
+John Culberson,Representative,Texas,Republican,3-Jan-01,m,TRUE
+Elijah Cummings,Representative,Maryland,Democrat,16-Apr-96,m,TRUE
+Carlos Curbelo,Representative,Florida,Republican,6-Jan-15,m,TRUE
+Tony C??rdenas,Representative,California,Democrat,3-Jan-13,m,TRUE
+Steve Daines,Senator,Montana,Republican,6-Jan-15,m,TRUE
+Warren Davidson,Representative,Ohio,Republican,9-Jun-16,m,TRUE
+Danny Davis,Representative,Illinois,Democrat,7-Jan-97,m,TRUE
+Rodney Davis,Representative,Illinois,Republican,3-Jan-13,m,TRUE
+Peter DeFazio,Representative,Oregon,Democrat,6-Jan-87,m,TRUE
+Ron DeSantis,Representative,Florida,Republican,3-Jan-13,m,TRUE
+Mark DeSaulnier,Representative,California,Democrat,6-Jan-15,m,TRUE
+John Delaney,Representative,Maryland,Democrat,3-Jan-13,m,TRUE
+Jeff Denham,Representative,California,Republican,3-Jan-13,m,TRUE
+Charles Dent,Representative,Pennsylvania,Republican,4-Jan-05,m,TRUE
+Scott DesJarlais,Representative,Tennessee,Republican,5-Jan-11,m,TRUE
+Theodore Deutch,Representative,Florida,Democrat,3-Jan-17,m,TRUE
+Mario Diaz-Balart,Representative,Florida,Republican,3-Jan-13,m,TRUE
+Lloyd Doggett,Representative,Texas,Democrat,3-Jan-13,m,TRUE
+Joe Donnelly,Senator,Indiana,Democrat,3-Jan-13,m,TRUE
+Daniel Donovan Jr.,Representative,New York,Republican,12-May-15,m,TRUE
+Michael ??Mike?? Doyle Jr.,Representative,Pennsylvania,Democrat,7-Jan-03,m,TRUE
+Sean Duffy,Representative,Wisconsin,Republican,5-Jan-11,m,TRUE
+Jeff Duncan,Representative,South Carolina,Republican,5-Jan-11,m,TRUE
+John ??Jimmy?? Duncan Jr.,Representative,Tennessee,Republican,8-Nov-88,m,TRUE
+Neal Dunn,Representative,Florida,Republican,3-Jan-17,m,TRUE
+Richard Durbin,Senator,Illinois,Democrat,7-Jan-97,m,TRUE
+Keith Ellison,Representative,Minnesota,Democrat,4-Jan-07,m,TRUE
+Tom Emmer,Representative,Minnesota,Republican,6-Jan-15,m,TRUE
+Eliot Engel,Representative,New York,Democrat,3-Jan-13,m,TRUE
+Michael Enzi,Senator,Wyoming,Republican,7-Jan-97,m,TRUE
+Adriano Espaillat,Representative,New York,Democrat,3-Jan-17,m,TRUE
+Dwight Evans,Representative,Pennsylvania,Democrat,14-Nov-16,m,TRUE
+Blake Farenthold,Representative,Texas,Republican,5-Jan-11,m,TRUE
+John Faso,Representative,New York,Republican,3-Jan-17,m,TRUE
+Drew Ferguson IV,Representative,Georgia,Republican,3-Jan-17,m,TRUE
+Brian Fitzpatrick,Representative,Pennsylvania,Republican,3-Jan-17,m,TRUE
+Jeff Flake,Senator,Arizona,Republican,3-Jan-13,m,TRUE
+Charles ??Chuck?? Fleischmann,Representative,Tennessee,Republican,5-Jan-11,m,TRUE
+Bill Flores,Representative,Texas,Republican,5-Jan-11,m,TRUE
+Jeff Fortenberry,Representative,Nebraska,Republican,4-Jan-05,m,TRUE
+Bill Foster,Representative,Illinois,Democrat,3-Jan-13,m,TRUE
+Alan ??Al?? Franken,Senator,Minnesota,Democrat,7-Jul-09,m,TRUE
+Trent Franks,Representative,Arizona,Republican,3-Jan-13,m,TRUE
+Rodney Frelinghuysen,Representative,New Jersey,Republican,4-Jan-95,m,TRUE
+Matt Gaetz,Representative,Florida,Republican,3-Jan-17,m,TRUE
+Mike Gallagher,Representative,Wisconsin,Republican,3-Jan-17,m,TRUE
+Ruben Gallego,Representative,Arizona,Democrat,6-Jan-15,m,TRUE
+John Garamendi,Representative,California,Democrat,3-Jan-13,m,TRUE
+Cory Gardner,Senator,Colorado,Republican,6-Jan-15,m,TRUE
+Thomas Garrett,Representative,Virginia,Republican,3-Jan-17,m,TRUE
+Bob Gibbs,Representative,Ohio,Republican,3-Jan-13,m,TRUE
+Louie Gohmert Jr.,Representative,Texas,Republican,4-Jan-05,m,TRUE
+Vicente Gonzalez,Representative,Texas,Democrat,3-Jan-17,m,TRUE
+Bob Goodlatte,Representative,Virginia,Republican,5-Jan-93,m,TRUE
+Paul Gosar,Representative,Arizona,Republican,3-Jan-13,m,TRUE
+Josh Gottheimer,Representative,New Jersey,Democrat,3-Jan-17,m,TRUE
+Trey Gowdy,Representative,South Carolina,Republican,5-Jan-11,m,TRUE
+Lindsey Graham,Senator,South Carolina,Republican,7-Jan-03,m,TRUE
+Charles ??Chuck?? Grassley,Senator,Iowa,Republican,5-Jan-81,m,TRUE
+Garret Graves,Representative,Louisiana,Republican,6-Jan-15,m,TRUE
+Sam Graves,Representative,Missouri,Republican,3-Jan-01,m,TRUE
+Tom Graves,Representative,Georgia,Republican,3-Jan-13,m,TRUE
+Al Green,Representative,Texas,Democrat,4-Jan-05,m,TRUE
+Gene Green,Representative,Texas,Democrat,5-Jan-93,m,TRUE
+Morgan Griffith,Representative,Virginia,Republican,5-Jan-11,m,TRUE
+Ra??l Grijalva,Representative,Arizona,Democrat,3-Jan-13,m,TRUE
+Glenn Grothman,Representative,Wisconsin,Republican,6-Jan-15,m,TRUE
+Brett Guthrie,Representative,Kentucky,Republican,6-Jan-09,m,TRUE
+Luis Guti??rrez,Representative,Illinois,Democrat,5-Jan-93,m,TRUE
+Gregg Harper,Representative,Mississippi,Republican,6-Jan-09,m,TRUE
+Andy Harris,Representative,Maryland,Republican,5-Jan-11,m,TRUE
+Alcee Hastings,Representative,Florida,Democrat,3-Jan-13,m,TRUE
+Orrin Hatch,Senator,Utah,Republican,4-Jan-77,m,TRUE
+Denny Heck,Representative,Washington,Democrat,3-Jan-13,m,TRUE
+Martin Heinrich,Senator,New Mexico,Democrat,3-Jan-13,m,TRUE
+Dean Heller,Senator,Nevada,Republican,9-May-11,m,TRUE
+Jeb Hensarling,Representative,Texas,Republican,7-Jan-03,m,TRUE
+Jody Hice,Representative,Georgia,Republican,6-Jan-15,m,TRUE
+Brian Higgins,Representative,New York,Democrat,3-Jan-13,m,TRUE
+Clay Higgins,Representative,Louisiana,Republican,3-Jan-17,m,TRUE
+French Hill,Representative,Arkansas,Republican,6-Jan-15,m,TRUE
+James Himes,Representative,Connecticut,Democrat,6-Jan-09,m,TRUE
+John Hoeven,Senator,North Dakota,Republican,5-Jan-11,m,TRUE
+George Holding,Representative,North Carolina,Republican,3-Jan-17,m,TRUE
+Trey Hollingsworth,Representative,Indiana,Republican,3-Jan-17,m,TRUE
+Steny Hoyer,Representative,Maryland,Democrat,5-Jan-81,m,TRUE
+Richard Hudson,Representative,North Carolina,Republican,3-Jan-13,m,TRUE
+Jared Huffman,Representative,California,Democrat,3-Jan-13,m,TRUE
+Bill Huizenga,Representative,Michigan,Republican,5-Jan-11,m,TRUE
+Randy Hultgren,Representative,Illinois,Republican,5-Jan-11,m,TRUE
+Duncan Hunter,Representative,California,Republican,3-Jan-13,m,TRUE
+Will Hurd,Representative,Texas,Republican,6-Jan-15,m,TRUE
+James ??Jim?? Inhofe,Senator,Oklahoma,Republican,1-Jan-94,m,TRUE
+John ??Johnny?? Isakson,Senator,Georgia,Republican,4-Jan-05,m,TRUE
+Darrell Issa,Representative,California,Republican,7-Jan-03,m,TRUE
+Hakeem Jeffries,Representative,New York,Democrat,3-Jan-13,m,TRUE
+Evan Jenkins,Representative,West Virginia,Republican,6-Jan-15,m,TRUE
+Bill Johnson,Representative,Ohio,Republican,5-Jan-11,m,TRUE
+Henry ??Hank?? Johnson Jr.,Representative,Georgia,Democrat,4-Jan-07,m,TRUE
+Mike Johnson,Representative,Louisiana,Republican,3-Jan-17,m,TRUE
+Ron Johnson,Senator,Wisconsin,Republican,5-Jan-11,m,TRUE
+Sam Johnson,Representative,Texas,Republican,3-Jan-91,m,TRUE
+Walter Jones Jr.,Representative,North Carolina,Republican,4-Jan-95,m,TRUE
+Jim Jordan,Representative,Ohio,Republican,4-Jan-07,m,TRUE
+David Joyce,Representative,Ohio,Republican,3-Jan-13,m,TRUE
+Timothy Kaine,Senator,Virginia,Democrat,3-Jan-13,m,TRUE
+John Katko,Representative,New York,Republican,6-Jan-15,m,TRUE
+William Keating,Representative,Massachusetts,Democrat,3-Jan-13,m,TRUE
+Mike Kelly,Representative,Pennsylvania,Republican,5-Jan-11,m,TRUE
+Trent Kelly,Representative,Mississippi,Republican,9-Jun-15,m,TRUE
+John Kennedy,Senator,Louisiana,Republican,3-Jan-17,m,TRUE
+Joseph Kennedy III,Representative,Massachusetts,Democrat,3-Jan-13,m,TRUE
+Ro Khanna,Representative,California,Democrat,3-Jan-17,m,TRUE
+Ruben Kihuen,Representative,Nevada,Democrat,3-Jan-17,m,TRUE
+Daniel Kildee,Representative,Michigan,Democrat,3-Jan-13,m,TRUE
+Derek Kilmer,Representative,Washington,Democrat,3-Jan-13,m,TRUE
+Ron Kind,Representative,Wisconsin,Democrat,7-Jan-97,m,TRUE
+Angus King,Senator,Maine,Independent,3-Jan-13,m,TRUE
+Peter ??Pete?? King,Representative,New York,Republican,3-Jan-13,m,TRUE
+Steve King,Representative,Iowa,Republican,3-Jan-13,m,TRUE
+Adam Kinzinger,Representative,Illinois,Republican,3-Jan-13,m,TRUE
+Steve Knight,Representative,California,Republican,6-Jan-15,m,TRUE
+Raja Krishnamoorthi,Representative,Illinois,Democrat,3-Jan-17,m,TRUE
+David Kustoff,Representative,Tennessee,Republican,3-Jan-17,m,TRUE
+Darin LaHood,Representative,Illinois,Republican,17-Sep-15,m,TRUE
+Doug LaMalfa,Representative,California,Republican,3-Jan-13,m,TRUE
+Ra??l Labrador,Representative,Idaho,Republican,5-Jan-11,m,TRUE
+Doug Lamborn,Representative,Colorado,Republican,4-Jan-07,m,TRUE
+Leonard Lance,Representative,New Jersey,Republican,6-Jan-09,m,TRUE
+James ??Jim?? Langevin,Representative,Rhode Island,Democrat,3-Jan-01,m,TRUE
+James Lankford,Senator,Oklahoma,Republican,6-Jan-15,m,TRUE
+Rick Larsen,Representative,Washington,Democrat,3-Jan-01,m,TRUE
+John Larson,Representative,Connecticut,Democrat,6-Jan-99,m,TRUE
+Robert Latta,Representative,Ohio,Republican,13-Dec-07,m,TRUE
+Al Lawson,Representative,Florida,Democrat,3-Jan-17,m,TRUE
+Patrick Leahy,Senator,Vermont,Democrat,14-Jan-75,m,TRUE
+Mike Lee,Senator,Utah,Republican,5-Jan-11,m,TRUE
+Sander Levin,Representative,Michigan,Democrat,3-Jan-13,m,TRUE
+Jason Lewis,Representative,Minnesota,Republican,3-Jan-17,m,TRUE
+John Lewis,Representative,Georgia,Democrat,6-Jan-87,m,TRUE
+Ted Lieu,Representative,California,Democrat,6-Jan-15,m,TRUE
+Daniel Lipinski,Representative,Illinois,Democrat,4-Jan-05,m,TRUE
+Frank LoBiondo,Representative,New Jersey,Republican,4-Jan-95,m,TRUE
+David Loebsack,Representative,Iowa,Democrat,4-Jan-07,m,TRUE
+Billy Long,Representative,Missouri,Republican,5-Jan-11,m,TRUE
+Barry Loudermilk,Representative,Georgia,Republican,6-Jan-15,m,TRUE
+Alan Lowenthal,Representative,California,Democrat,3-Jan-13,m,TRUE
+Frank Lucas,Representative,Oklahoma,Republican,7-Jan-03,m,TRUE
+Blaine Luetkemeyer,Representative,Missouri,Republican,3-Jan-13,m,TRUE
+Ben Luj??n,Representative,New Mexico,Democrat,6-Jan-09,m,TRUE
+Stephen Lynch,Representative,Massachusetts,Democrat,3-Jan-13,m,TRUE
+Tom MacArthur,Representative,New Jersey,Republican,6-Jan-15,m,TRUE
+Sean Maloney,Representative,New York,Democrat,3-Jan-13,m,TRUE
+Joe Manchin III,Senator,West Virginia,Democrat,15-Nov-10,m,TRUE
+Kenny Marchant,Representative,Texas,Republican,4-Jan-05,m,TRUE
+Tom Marino,Representative,Pennsylvania,Republican,5-Jan-11,m,TRUE
+Edward ??Ed?? Markey,Senator,Massachusetts,Democrat,16-Jul-13,m,TRUE
+Roger Marshall,Representative,Kansas,Republican,3-Jan-17,m,TRUE
+Thomas Massie,Representative,Kentucky,Republican,13-Nov-12,m,TRUE
+Brian Mast,Representative,Florida,Republican,3-Jan-17,m,TRUE
+John McCain,Senator,Arizona,Republican,6-Jan-87,m,TRUE
+Kevin McCarthy,Representative,California,Republican,3-Jan-13,m,TRUE
+Michael McCaul,Representative,Texas,Republican,4-Jan-05,m,TRUE
+Tom McClintock,Representative,California,Republican,6-Jan-09,m,TRUE
+Mitch McConnell,Senator,Kentucky,Republican,3-Jan-85,m,TRUE
+Donald McEachin,Representative,Virginia,Democrat,3-Jan-17,m,TRUE
+James ??Jim?? McGovern,Representative,Massachusetts,Democrat,3-Jan-13,m,TRUE
+Patrick McHenry,Representative,North Carolina,Republican,4-Jan-05,m,TRUE
+David McKinley,Representative,West Virginia,Republican,5-Jan-11,m,TRUE
+Jerry McNerney,Representative,California,Democrat,3-Jan-13,m,TRUE
+Mark Meadows,Representative,North Carolina,Republican,3-Jan-13,m,TRUE
+Patrick Meehan,Representative,Pennsylvania,Republican,5-Jan-11,m,TRUE
+Gregory Meeks,Representative,New York,Democrat,3-Jan-13,m,TRUE
+Robert ??Bob?? Men??ndez,Senator,New Jersey,Democrat,18-Jan-06,m,TRUE
+Jeff Merkley,Senator,Oregon,Democrat,6-Jan-09,m,TRUE
+Luke Messer,Representative,Indiana,Republican,3-Jan-13,m,TRUE
+Paul Mitchell,Representative,Michigan,Republican,3-Jan-17,m,TRUE
+John Moolenaar,Representative,Michigan,Republican,6-Jan-15,m,TRUE
+Alex Mooney,Representative,West Virginia,Republican,6-Jan-15,m,TRUE
+Jerry Moran,Senator,Kansas,Republican,5-Jan-11,m,TRUE
+Seth Moulton,Representative,Massachusetts,Democrat,6-Jan-15,m,TRUE
+Markwayne Mullin,Representative,Oklahoma,Republican,3-Jan-13,m,TRUE
+Christopher Murphy,Senator,Connecticut,Democrat,3-Jan-13,m,TRUE
+Tim Murphy,Representative,Pennsylvania,Republican,7-Jan-03,m,TRUE
+Jerrold Nadler,Representative,New York,Democrat,3-Jan-13,m,TRUE
+Richard Neal,Representative,Massachusetts,Democrat,3-Jan-13,m,TRUE
+Bill Nelson,Senator,Florida,Democrat,3-Jan-01,m,TRUE
+Dan Newhouse,Representative,Washington,Republican,6-Jan-15,m,TRUE
+Richard Nolan,Representative,Minnesota,Democrat,3-Jan-13,m,TRUE
+Donald Norcross,Representative,New Jersey,Democrat,12-Nov-14,m,TRUE
+Devin Nunes,Representative,California,Republican,3-Jan-13,m,TRUE
+Tom O'Halleran,Representative,Arizona,Democrat,3-Jan-17,m,TRUE
+Beto O'Rourke,Representative,Texas,Democrat,3-Jan-13,m,TRUE
+Pete Olson,Representative,Texas,Republican,6-Jan-09,m,TRUE
+Steven Palazzo,Representative,Mississippi,Republican,5-Jan-11,m,TRUE
+Frank Pallone Jr.,Representative,New Jersey,Democrat,5-Jan-93,m,TRUE
+Gary Palmer,Representative,Alabama,Republican,6-Jan-15,m,TRUE
+Jimmy Panetta,Representative,California,Democrat,3-Jan-17,m,TRUE
+Bill Pascrell Jr.,Representative,New Jersey,Democrat,3-Jan-13,m,TRUE
+Rand Paul,Senator,Kentucky,Republican,5-Jan-11,m,TRUE
+Erik Paulsen,Representative,Minnesota,Republican,6-Jan-09,m,TRUE
+Donald Payne Jr.,Representative,New Jersey,Democrat,15-Nov-12,m,TRUE
+Stevan ??Steve?? Pearce,Representative,New Mexico,Republican,5-Jan-11,m,TRUE
+David Perdue,Senator,Georgia,Republican,6-Jan-15,m,TRUE
+Ed Perlmutter,Representative,Colorado,Democrat,4-Jan-07,m,TRUE
+Scott Perry,Representative,Pennsylvania,Republican,3-Jan-13,m,TRUE
+Gary Peters,Senator,Michigan,Democrat,6-Jan-15,m,TRUE
+Scott Peters,Representative,California,Democrat,3-Jan-13,m,TRUE
+Collin Peterson,Representative,Minnesota,Democrat,3-Jan-91,m,TRUE
+Robert Pittenger,Representative,North Carolina,Republican,3-Jan-13,m,TRUE
+Mark Pocan,Representative,Wisconsin,Democrat,3-Jan-13,m,TRUE
+Ted Poe,Representative,Texas,Republican,4-Jan-05,m,TRUE
+Bruce Poliquin,Representative,Maine,Republican,6-Jan-15,m,TRUE
+Jared Polis,Representative,Colorado,Democrat,6-Jan-09,m,TRUE
+Robert ??Rob?? Portman,Senator,Ohio,Republican,5-Jan-11,m,TRUE
+Bill Posey,Representative,Florida,Republican,3-Jan-13,m,TRUE
+David Price,Representative,North Carolina,Democrat,7-Jan-97,m,TRUE
+Mike Quigley,Representative,Illinois,Democrat,7-Apr-09,m,TRUE
+Jamie Raskin,Representative,Maryland,Democrat,3-Jan-17,m,TRUE
+John Ratcliffe,Representative,Texas,Republican,6-Jan-15,m,TRUE
+John ??Jack?? Reed,Senator,Rhode Island,Democrat,7-Jan-97,m,TRUE
+Tom Reed II,Representative,New York,Republican,3-Jan-13,m,TRUE
+David Reichert,Representative,Washington,Republican,4-Jan-05,m,TRUE
+James Renacci,Representative,Ohio,Republican,5-Jan-11,m,TRUE
+Tom Rice,Representative,South Carolina,Republican,3-Jan-13,m,TRUE
+Cedric Richmond,Representative,Louisiana,Democrat,5-Jan-11,m,TRUE
+James Risch,Senator,Idaho,Republican,6-Jan-09,m,TRUE
+Pat Roberts,Senator,Kansas,Republican,7-Jan-97,m,TRUE
+David ??Phil?? Roe,Representative,Tennessee,Republican,6-Jan-09,m,TRUE
+Harold ??Hal?? Rogers,Representative,Kentucky,Republican,5-Jan-81,m,TRUE
+Mike Rogers,Representative,Alabama,Republican,7-Jan-03,m,TRUE
+Dana Rohrabacher,Representative,California,Republican,3-Jan-13,m,TRUE
+Todd Rokita,Representative,Indiana,Republican,5-Jan-11,m,TRUE
+Francis Rooney,Representative,Florida,Republican,3-Jan-17,m,TRUE
+Thomas Rooney,Representative,Florida,Republican,3-Jan-13,m,TRUE
+Peter Roskam,Representative,Illinois,Republican,4-Jan-07,m,TRUE
+Dennis Ross,Representative,Florida,Republican,3-Jan-13,m,TRUE
+Keith Rothfus,Representative,Pennsylvania,Republican,3-Jan-13,m,TRUE
+Mike Rounds,Senator,South Dakota,Republican,6-Jan-15,m,TRUE
+David Rouzer,Representative,North Carolina,Republican,6-Jan-15,m,TRUE
+Edward ??Ed?? Royce,Representative,California,Republican,3-Jan-13,m,TRUE
+Marco Rubio,Senator,Florida,Republican,5-Jan-11,m,TRUE
+Raul Ruiz,Representative,California,Democrat,3-Jan-13,m,TRUE
+A. Dutch Ruppersberger,Representative,Maryland,Democrat,7-Jan-03,m,TRUE
+Bobby Rush,Representative,Illinois,Democrat,5-Jan-93,m,TRUE
+Steve Russell,Representative,Oklahoma,Republican,6-Jan-15,m,TRUE
+John Rutherford,Representative,Florida,Republican,3-Jan-17,m,TRUE
+Paul Ryan,Representative,Wisconsin,Republican,6-Jan-99,m,TRUE
+Tim Ryan,Representative,Ohio,Democrat,3-Jan-13,m,TRUE
+Gregorio Sablan,Delegate,the Northern Mariana Islands,Democrat,6-Jan-09,m,TRUE
+Bernard ??Bernie?? Sanders,Senator,Vermont,Independent,4-Jan-07,m,TRUE
+Marshall ??Mark?? Sanford,Representative,South Carolina,Republican,15-May-13,m,TRUE
+John Sarbanes,Representative,Maryland,Democrat,4-Jan-07,m,TRUE
+Benjamin Sasse,Senator,Nebraska,Republican,6-Jan-15,m,TRUE
+Steve Scalise,Representative,Louisiana,Republican,7-May-08,m,TRUE
+Brian Schatz,Senator,Hawaii,Democrat,27-Dec-12,m,TRUE
+Adam Schiff,Representative,California,Democrat,3-Jan-13,m,TRUE
+Bradley Schneider,Representative,Illinois,Democrat,3-Jan-17,m,TRUE
+Kurt Schrader,Representative,Oregon,Democrat,6-Jan-09,m,TRUE
+Charles ??Chuck?? Schumer,Senator,New York,Democrat,6-Jan-99,m,TRUE
+David Schweikert,Representative,Arizona,Republican,3-Jan-13,m,TRUE
+Austin Scott,Representative,Georgia,Republican,5-Jan-11,m,TRUE
+David Scott,Representative,Georgia,Democrat,7-Jan-03,m,TRUE
+Robert ??Bobby?? Scott,Representative,Virginia,Democrat,5-Jan-93,m,TRUE
+Tim Scott,Senator,South Carolina,Republican,3-Jan-13,m,TRUE
+James Sensenbrenner Jr.,Representative,Wisconsin,Republican,7-Jan-03,m,TRUE
+Jos?? Serrano,Representative,New York,Democrat,3-Jan-13,m,TRUE
+Pete Sessions,Representative,Texas,Republican,7-Jan-03,m,TRUE
+Richard Shelby,Senator,Alabama,Republican,6-Jan-87,m,TRUE
+Brad Sherman,Representative,California,Democrat,3-Jan-13,m,TRUE
+John Shimkus,Representative,Illinois,Republican,3-Jan-13,m,TRUE
+Bill Shuster,Representative,Pennsylvania,Republican,17-May-01,m,TRUE
+Michael ??Mike?? Simpson,Representative,Idaho,Republican,6-Jan-99,m,TRUE
+Albio Sires,Representative,New Jersey,Democrat,3-Jan-13,m,TRUE
+Adam Smith,Representative,Washington,Democrat,7-Jan-97,m,TRUE
+Adrian Smith,Representative,Nebraska,Republican,4-Jan-07,m,TRUE
+Christopher ??Chris?? Smith,Representative,New Jersey,Republican,5-Jan-81,m,TRUE
+Jason Smith,Representative,Missouri,Republican,4-Jun-13,m,TRUE
+Lamar Smith,Representative,Texas,Republican,6-Jan-87,m,TRUE
+Lloyd Smucker,Representative,Pennsylvania,Republican,3-Jan-17,m,TRUE
+Darren Soto,Representative,Florida,Democrat,3-Jan-17,m,TRUE
+Chris Stewart,Representative,Utah,Republican,3-Jan-13,m,TRUE
+Steve Stivers,Representative,Ohio,Republican,5-Jan-11,m,TRUE
+Luther Strange,Senator,Alabama,Republican,9-Feb-17,m,TRUE
+Dan Sullivan,Senator,Alaska,Republican,6-Jan-15,m,TRUE
+Thomas Suozzi,Representative,New York,Democrat,3-Jan-17,m,TRUE
+Eric Swalwell,Representative,California,Democrat,3-Jan-13,m,TRUE
+Mark Takano,Representative,California,Democrat,3-Jan-13,m,TRUE
+Scott Taylor,Representative,Virginia,Republican,3-Jan-17,m,TRUE
+Jon Tester,Senator,Montana,Democrat,4-Jan-07,m,TRUE
+Bennie Thompson,Representative,Mississippi,Democrat,13-Apr-93,m,TRUE
+Glenn Thompson,Representative,Pennsylvania,Republican,6-Jan-09,m,TRUE
+Mike Thompson,Representative,California,Democrat,3-Jan-13,m,TRUE
+Mac Thornberry,Representative,Texas,Republican,4-Jan-95,m,TRUE
+John Thune,Senator,South Dakota,Republican,4-Jan-05,m,TRUE
+Patrick ??Pat?? Tiberi,Representative,Ohio,Republican,3-Jan-01,m,TRUE
+Thom Tillis,Senator,North Carolina,Republican,6-Jan-15,m,TRUE
+Scott Tipton,Representative,Colorado,Republican,5-Jan-11,m,TRUE
+Paul Tonko,Representative,New York,Democrat,3-Jan-13,m,TRUE
+Patrick ??Pat?? Toomey,Senator,Pennsylvania,Republican,5-Jan-11,m,TRUE
+Dave Trott,Representative,Michigan,Republican,6-Jan-15,m,TRUE
+Michael Turner,Representative,Ohio,Republican,3-Jan-13,m,TRUE
+Tom Udall,Senator,New Mexico,Democrat,6-Jan-09,m,TRUE
+Fred Upton,Representative,Michigan,Republican,5-Jan-93,m,TRUE
+David Valadao,Representative,California,Republican,3-Jan-13,m,TRUE
+Chris Van Hollen Jr.,Senator,Maryland,Democrat,3-Jan-17,m,TRUE
+Juan Vargas,Representative,California,Democrat,3-Jan-13,m,TRUE
+Marc Veasey,Representative,Texas,Democrat,3-Jan-13,m,TRUE
+Filemon Vela,Representative,Texas,Democrat,3-Jan-13,m,TRUE
+Peter Visclosky,Representative,Indiana,Democrat,3-Jan-85,m,TRUE
+Tim Walberg,Representative,Michigan,Republican,5-Jan-11,m,TRUE
+Greg Walden,Representative,Oregon,Republican,6-Jan-99,m,TRUE
+Mark Walker,Representative,North Carolina,Republican,6-Jan-15,m,TRUE
+Timothy Walz,Representative,Minnesota,Democrat,4-Jan-07,m,TRUE
+Mark Warner,Senator,Virginia,Democrat,6-Jan-09,m,TRUE
+Randy Weber,Representative,Texas,Republican,3-Jan-13,m,TRUE
+Daniel Webster,Representative,Florida,Republican,3-Jan-17,m,TRUE
+Peter Welch,Representative,Vermont,Democrat,4-Jan-07,m,TRUE
+Brad Wenstrup,Representative,Ohio,Republican,3-Jan-13,m,TRUE
+Bruce Westerman,Representative,Arkansas,Republican,6-Jan-15,m,TRUE
+Sheldon Whitehouse,Senator,Rhode Island,Democrat,4-Jan-07,m,TRUE
+Roger Wicker,Senator,Mississippi,Republican,31-Dec-07,m,TRUE
+Roger Williams,Representative,Texas,Republican,3-Jan-13,m,TRUE
+Joe Wilson,Representative,South Carolina,Republican,18-Dec-01,m,TRUE
+Robert Wittman,Representative,Virginia,Republican,13-Dec-07,m,TRUE
+Steve Womack,Representative,Arkansas,Republican,5-Jan-11,m,TRUE
+Rob Woodall,Representative,Georgia,Republican,5-Jan-11,m,TRUE
+Ron Wyden,Senator,Oregon,Democrat,1-Jan-96,m,TRUE
+John Yarmuth,Representative,Kentucky,Democrat,4-Jan-07,m,TRUE
+Kevin Yoder,Representative,Kansas,Republican,5-Jan-11,m,TRUE
+Ted Yoho,Representative,Florida,Republican,3-Jan-13,m,TRUE
+David Young,Representative,Iowa,Republican,6-Jan-15,m,TRUE
+Don Young,Representative,Alaska,Republican,3-Jan-73,m,TRUE
+Todd Young,Senator,Indiana,Republican,3-Jan-17,m,TRUE
+Lee Zeldin,Representative,New York,Republican,6-Jan-15,m,TRUE

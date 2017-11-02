@@ -1,0 +1,98 @@
+{% extends 'layout.html' %}
+{% block heading %}The name of the People{% endblock %}
+{% block content %}
+<body>
+  <div id="main">
+
+    <header>
+  	  <div id="strapline">
+  	    <div id="welcome_slogan">
+  	      <h3 class="introduction3"><span>Welcome</span> to The World of <span>Bills</span></h3>
+  	    </div><!--close welcome_slogan-->
+      </div><!--close strapline-->
+  	  <nav>
+  	    <div id="menubar">
+            <ul id="nav">
+              <li class="current"><a href="/">Home</a></li>
+              <li><a href="{{url_for('politician')}}">People</a></li>
+              <li><a href="{{url_for('bill')}}">Bills</a></li>
+              <li><a href="{{url_for('sponsor')}}">Overview</a></li>
+              <li><a href="{{url_for('contact')}}">Contact Us</a></li>
+            </ul>
+          </div><!--close menubar-->
+        </nav>
+    </header>
+
+    <div id="slideshow_container">
+  	  <div class="slideshow">
+  	     <ul class="slideshow">
+            <li class="show"><img width="950" height="250" src="/static/images/home_1.jpg" /></li>
+            <li><img width="950" height="250" src="/static/images/home_2.jpg" /></li>
+            <li><img width="940" height="250" src="/static/images/home_3.jpeg"  /></li>
+          </ul>
+  	  </div><!--close slideshow-->
+  	</div><!--close slideshow_container-->
+
+	<div id="site_content">
+
+	  <div class="sidebar_container">
+  		    <div class="sidebar">
+              <div class="sidebar_item">
+                <h2>Introduction of the Website</h2>
+                <p>Welcome to our new website. Please have a look around, any feedback is much appreciated.</p>
+              </div><!--close sidebar_item-->
+            </div><!--close sidebar-->
+  		   <div class="sidebar">
+            <div class="sidebar_item">
+              <h1>Latest Update</h1>
+              <h2>April 2017</h2>
+              <a  href="http://www.journalnow.com/news/local/public-records-bill-on-ncaa-acc-communications-documents-reaches-senate/article_f8267108-29dc-11e7-b042-33ec8cff923e.html">The news of bills recently!</a>.
+           </div><!--close sidebar_item-->
+          </div><!--close sidebar-->
+  		    <div class="sidebar">
+            <div class="sidebar_item">
+              <h2>March 2017</h2>
+                <a href="http://www.guns.com/2017/04/25/march-2017-background-checks-gun-sales-in-review/">The older news of bills!</a>.
+            </div><!--close sidebar_item-->
+          </div><!--close sidebar-->
+          <div class="sidebar">
+            <div class="sidebar_item">
+              <h2>Contact</h2>
+              <p>Phone: (919)813-8696</p>
+              <p>Email: <a href="mailto:zhiyong.zhao@duke.edu">zhiyong.zhao@duke.edu</a></p>
+              <img class="icon" width="24" height="25" src="/static/images/facebook.png"  />
+              <img class="icon" width="24" height="25" src="/static/images/twitter.jpg"  />
+              <img class="icon" width="24" height="25" src="/static/images/Google-plus-icon.png"  />
+
+            </div><!--close sidebar_item-->
+          </div><!--close sidebar-->
+      </div><!--close sidebar_container-->
+
+     <div id="content">
+        <div class="content_item">
+
+      		  <h1 id ="welcome">Background Introduction</h1>
+      		                         <p id = "welcomep">This website is based on data fetched from the US congress website which can be found
+                                           <a href="https://www.govtrack.us/">here</a>. The goal of this website is to enable the user to get a big picture analysis of bills that will be introduced during the <a href="https://en.wikipedia.org/wiki/115th_United_States_Congress">115th congress </a>. Some of functionalities it will provide will be an analysis of number of bills introduced by different parties, under different sectors over time, the voting patterns of bills by their sectors, determining if there are clear voting trends for bills in certain categories based on the party affiliations of the members of congress. Users will also have the ability to get a general analysis of the voting trend for a particular member of congress(House Representative or senator) or get summary analysis such as the member who votes 'No" or "Yes" most times. A general comparison of two members will also be possible. The site will mainly focus on the sectors that Trump's campaign was centered around such as immigration, foreign policy, environment and energy. By exploring the voting patterns, we want to explore if members of congress vote strictly along bipartisan lines or if there are other influencing the bills </p>
+      	</div><!--close content_item-->
+    </div><!--close content-->	 
+         
+	</div><!--close site_content-->
+
+     
+
+    <footer>
+	  <a href="/">Home</a> | <a href="{{url_for('politician')}}">People</a> | <a href="{{url_for('bill')}}">Bills</a> | <a href="{{url_for('sponsor')}}">Overview</a> | <a href="{{url_for('contact')}}">Contact</a>
+          <br>
+          &copy Zhiyong Zhao,  Elaine M'NKubitu, Chao Yang, Akanksh Chaudhary
+    </footer>
+
+  </div><!--close main-->
+
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="/static/js/jquery.min.js"></script>
+  <script type="text/javascript" src="/static/js/image_slide.js"></script>
+  <script type="text/javascript" src="/static/js/modernizr-1.5.min.js"></script>
+
+
+{% endblock %}

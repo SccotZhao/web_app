@@ -1,0 +1,15 @@
+{% extends 'Bills.html' %}
+{% block heading %}The information of the bills That you want to know{% endblock %}
+{% block ncontent %}
+<h1 class="tab"> The result is as follows: </h1>
+<ol>
+  {% for element in list %}
+   <li> 
+      {% for subelement in element %}
+             {{ subelement }} |
+     {% endfor %}
+   </li>
+  {% endfor %}
+</ol>
+
+{% endblock %}

@@ -1,0 +1,48 @@
+house_or_senate,sector_name,num_of_rep,num_of_dem,num_of_ind
+S,Aging,9,8,0
+S,"Agriculture, Nutrition, and Forestry",11,10,0
+S,Appropriations,16,15,0
+S,Armed Services,14,12,0
+S,"Banking, Housing, and Urban Affairs",12,11,0
+S,the Budget,12,9,0
+S,"Commerce, Science, and Transportation",14,13,0
+S,Energy and Natural Resources,12,9,0
+S,Environment and Public Works,11,9,0
+S,Ethics,3,3,0
+S,Finance,14,12,0
+S,Foreign Relations,11,10,0
+S,"Health, Education, Labor, and Pensions",12,10,0
+S,Homeland Security and Governmental Affairs,8,7,0
+S,Indian Affairs,8,7,0
+S,Intelligence,10,8,0
+S,the Judiciary,11,9,0
+S,Rules and Administration,10,8,0
+S,Small Business and Entrepreneurship,10,9,0
+J,United States Senate Caucus on International Narcotics Control,3,3,0
+S,Veterans' Affairs,8,6,0
+H,Agriculture,26,20,0
+H,Appropriations,30,22,0
+H,Armed Services,34,27,0
+H,the Budget,22,14,0
+H,Education and the Workforce,22,17,0
+H,Energy and Commerce,31,24,0
+H,Ethics,5,5,0
+H,Financial Services,34,26,0
+H,Foreign Affairs,26,21,0
+H,Homeland Security,18,12,0
+H,House Administration,6,3,0
+H,Intelligence,13,9,0
+H,the Judiciary,23,17,0
+H,Natural Resources,25,18,0
+H,Oversight and Government Reform,24,18,0
+H,Rules,9,4,0
+H,"Science, Space, and Technology",22,16,0
+H,Small Business,13,9,0
+H,Transportation and Infrastructure,34,27,0
+H,Veterans' Affairs,14,10,0
+H,Ways and Means,24,16,0
+J,Commission on Security and Cooperation in Europe,6,7,0
+J,Joint Committee on Printing,4,4,0
+J,Joint Committee on Taxation,6,3,0
+J,Joint Committee on the Library,5,4,0
+J,Joint Economic Committee,10,7,0

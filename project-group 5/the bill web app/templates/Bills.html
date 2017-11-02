@@ -1,0 +1,129 @@
+{% extends 'layout.html' %}
+{% block heading %}The name of the People{% endblock %}
+{% block content %}
+  <div id="main">
+
+    <header>
+	  <div id="strapline">
+	    <div id="welcome_slogan">
+	      <h3 class="introduction3"><span>Welcome</span> to The World of <span>Bills </span> <span><b>115th Congress</b></span></h3> 
+	    </div><!--close welcome_slogan-->
+      </div><!--close strapline-->
+	  <nav>
+	    <div id="menubar">
+          <ul id="nav">
+              <li><a href="/">Home</a></li>
+              <li><a href="{{url_for('politician')}}">People</a></li>
+              <li class="current"><a href="{{url_for('bill')}}">Bills</a></li>
+              <li><a href="{{url_for('sponsor')}}">Overview</a></li>
+              <li><a href="{{url_for('contact')}}">Contact Us</a></li>
+          </ul>
+        </div><!--close menubar-->
+      </nav>
+    </header>
+
+    <div id="slideshow_container">
+	  <div class="slideshow">
+	    <ul class="slideshow">
+         
+          <li class="show"><img width="940" height="250" src="/static/images/home_1.jpg"  /></li>
+          <li><img width="940" height="250" src="/static/images/home_2.jpg"  /></li>
+          <li><img width="940" height="250" src="/static/images/home_3.jpeg"  /></li>
+        </ul>
+	  </div><!--close slideshow-->
+	</div><!--close slideshow_container-->
+
+	<div id="site_content">
+
+	  <div class="sidebar_container">
+		<div class="sidebar">
+          <div class="sidebar_item">
+            <h2>Information of the bills</h2>
+            <p>Bills are divided into different sectors. The sectors of the House and Senate may vary but they generally tend to be similar. Some of the sectors include Energy, Agriculture, Finance and Education.
+</p>
+          </div><!--close sidebar_item-->
+        </div><!--close sidebar-->
+		<div class="sidebar">
+ 
+        </div><!--close sidebar-->
+		<div class="sidebar">
+          <div class="sidebar_item">
+                        <h2>Related Links</h2>
+            
+ <a  href="http://democrats.rules.house.gov/legislation/bills/115th">Democrat Legislation</a>
+<br>
+<br>
+ <a  href="http://democrats.rules.house.gov/legislation/bills/115th">Bills By Congress</a>
+<br>
+<br>
+ <a  href="https://www.senate.gov/legislative/active_leg_page.htm">Senate Legislation</a>
+<br>
+<br>
+ <a  href="https://legiscan.com/US">Legiscan</a>		  
+</div><!--close sidebar_item-->
+        </div><!--close sidebar-->
+        <div class="sidebar">
+          <div class="sidebar_item">
+            <h2>Contact</h2>
+            <p>Phone: (919)8138696</p>
+            <p>Email: <a href="mailto:zhiyong.zhao@duke.edu">zhiyong.zhao@duke.edu</a></p>
+          </div><!--close sidebar_item-->
+        </div><!--close sidebar-->
+       </div><!--close sidebar_container-->
+<br>
+<br>
+
+	  <div id="content">
+        <div class="content_item">
+
+             <h1 id ="welcomeMember">Bills Analysis</h1>
+<h2 class ="introduction">A bill's life cycle in the legislature procedure</h2>
+<ul class ="introduction1">
+<li>A bill is first introduced (sponsored) by the a legislator</li>
+<li>Then the bill is assigned to one or more related committees in the house or the senate</li>
+<li>After the committee decides that the bill be suitable for a chamber vote, a report is ordered by the committee to the house/senate</li>
+<li>The bill passes the house/senate vote, the form of which varies and include "roll call vote" where the voting details are recorded</li>
+<li>Then the bill is to be passed the vote of the other part of the congress</li>
+<li>Signed by the president and be enacted.</li>
+</ul>
+
+           <h1>This page is used to search bills. </h1>
+
+			   <form action = "{{url_for('search_bill')}}" method = "post">
+	                      <select name="Search Bill">
+                                   <option value="0">Please Select One To Search</option>
+		                  <option value="1">Top 5 Sectors with most INTRODUCED Bills</option>
+		                  <option value="2">Top 5 Sectors with PASSED Bills</option>
+		                  <option value="3">Top 5 Sectors With Most Failed Bills</option>
+		                  <option value="4">Top 5 Sectors with Least Passed Bills</option>
+	                 	  <option value="5">Sectors With Bills That Get Roll Call Votes</option>
+	            		  <option value="6">Top 5 Sectors of Bills Introduced By Democrats</option>				  
+				  <option value="7">Top 5 Sectors of Bills Introduced By Republicans</option>	
+				  <option value="8">Number of bills in different status</option>
+				  <option value="9">Monthly bill introduction by dep/rep</option>
+                                  <option value="a">Number of dem/rep in committee</option>
+	 		     </select>
+<br>
+<br>
+  			    <input type="submit"></button>	
+                          </form>		
+        <br>
+	         {% block ncontent %} {% endblock %}		
+  
+	    </div><!--close content_item-->
+      </div><!--close content-->
+	</div><!--close site_content-->
+    <footer>
+	  <a href="/">Home</a> | <a href="{{url_for('politician')}}">People</a> | <a href="{{url_for('bill')}}">Bills</a> | <a href="{{url_for('sponsor')}}">Overview</a> | <a href="{{url_for('contact')}}">Contact</a>
+          <br>
+          &copy Zhiyong Zhao,  Elaine M'NKubitu, Chao Yang, Akanksh Chaudhary
+    </footer>
+
+  </div><!--close main-->
+
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="/static/js/jquery.min.js"></script>
+  <script type="text/javascript" src="/static/js/image_slide.js"></script>
+  <script type="text/javascript" src="/static/js/modernizr-1.5.min.js"></script>
+
+{% endblock %}

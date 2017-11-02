@@ -1,0 +1,49 @@
+{% extends 'Relation.html' %}
+{% block heading %}The information of the bill that you want to know{% endblock %}
+{% block nncontent %}
+<h1 class="tab"> The result is as follows: </h1>
+<ol>
+  {% for element in list %}
+   <li> 
+    {% for subElement in element %}
+    {{subElement}}
+    {% endfor %}
+   </li>
+  {% endfor %}
+</ol>
+
+<script src="http://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<script type="text/javascript">
+
+var a = '{{list[0][0]}}'
+var b = '{{list[1][0]}}'
+var c = '{{list[2][0]}}'
+
+var d = {{list[0][1]}}
+var e = {{list[1][1]}}
+var f = {{list[2][1]}}
+
+
+window.onload = function() {
+	var chart = new CanvasJS.Chart("chartContainer", {
+		title:{
+			text: "The graph"              
+		},
+		data: [              
+		{
+			// Change type to , "line", "splineArea","doughnut","column", etc.
+			type:  "doughnut", 
+			dataPoints: [
+
+                                { label: a,  y: d },
+                                { label: b,  y: e  },
+                                { label: c,  y: f }
+			]
+		}
+		]
+	});
+	chart.render();
+}
+</script>
+
+{% endblock %}

@@ -1,0 +1,163 @@
+{% extends 'layout.html' %}
+{% block heading %}The name of the People{% endblock %}
+{% block content %}
+  <div id="main">
+
+    <header>
+	  <div id="strapline">
+	    <div id="welcome_slogan">
+	      <h3 class="introduction3"><span>Welcome</span> to The World of <span>Bills</span></h3>
+	    </div><!--close welcome_slogan-->
+      </div><!--close strapline-->
+	  <nav>
+	    <div id="menubar">
+          <ul id="nav">
+                <li><a href="/">Home</a></li>
+              <li><a href="{{url_for('politician')}}">People</a></li>
+              <li><a href="{{url_for('bill')}}">Bills</a></li>
+              <li class="current"><a href="{{url_for('sponsor')}}">Overview</a></li>
+              <li><a href="{{url_for('contact')}}">Contact Us</a></li> 
+          </ul>
+        </div><!--close menubar-->
+      </nav>
+    </header>
+
+    <div id="slideshow_container">
+	  <div class="slideshow">
+	    <ul class="slideshow">
+          <li class="show"><img width="940" height="250" src="/static/images/home_1.jpg" /></li>
+          <li><img width="940" height="250" src="/static/images/home_2.jpg"/></li>
+	  <li><img width="940" height="250" src="/static/images/home_3.jpeg"  /></li>
+        </ul>
+	  </div><!--close slideshow-->
+	</div><!--close slideshow_container-->
+
+	<div id="site_content">
+
+	  <div class="sidebar_container">
+		<div class="sidebar">
+          <div class="sidebar_item">
+            <h1>Overview of the Bills</h1>
+            <p>The overview of recent bills.</p>
+          </div><!--close sidebar_item-->
+        </div><!--close sidebar-->
+		<div class="sidebar">
+          <div class="sidebar_item">
+            <h1>Latest Update</h1>
+            <h2>April2017</h2>
+            <a  href="http://www.vox.com/policy-and-politics/2017/4/25/15407326/government-shutdown-explained">Government Shutdown</a>
+<br>
+<br>
+ <a  href="https://aflcio.org/2017/4/11/100-days-115th-congress-we-examine-how-theyve-spent-their-time">100 Days of 115th Congress</a>
+
+		  </div><!--close sidebar_item-->
+        </div><!--close sidebar-->
+		<div class="sidebar">
+          <div class="sidebar_item">
+             <h2>Related Links</h2>
+            
+ <a  href="http://democrats.rules.house.gov/legislation/bills/115th">Democrat Legislation</a>
+<br>
+<br>
+ <a  href="http://democrats.rules.house.gov/legislation/bills/115th">Bills By Congress</a>
+<br>
+<br>
+ <a  href="https://www.senate.gov/legislative/active_leg_page.htm">Senate Legislation</a>
+<br>
+<br>
+ <a  href="https://legiscan.com/US">Legiscan</a>		  </div><!--close sidebar_item-->
+        </div><!--close sidebar-->
+        <div class="sidebar">
+          <div class="sidebar_item">
+            <h2>Contact</h2>
+            <p>Phone: (919)813-8696</p>
+            <p>Email: <a href="mailto:zhiyong.zhao@duke.edu">zhiyong.zhao@duke.edu</a></p>
+          </div><!--close sidebar_item-->
+        </div><!--close sidebar-->
+       </div><!--close sidebar_container-->
+
+<br>
+<br>
+
+
+
+
+
+
+
+	  <div id="content">
+        <div class="content_item">
+
+             <h1 id ="welcomeMember">General Bill Analysis</h1>
+
+<p class ="introduction2">
+
+This page highlights the general trends of bills, as broken down by party lines,
+
+sector divisions, and source of introduction. These visualizations of data are meant
+
+to inform the viewer about how different attributes influence the journey a bill takes
+
+on its way to the president to make the final decision.</P>
+
+<br>
+<br>
+<img width="640" height="250" src="/static/images/bills.png"/>
+<br>
+<br>
+
+                <form action = "{{url_for('search_overview')}}" method = "post">
+                    <select name="Search Overview">
+                        <option value="0">Please choose one to search!</option>
+                        <option value="1">Bills Analysis according to Sectors</option>
+                        <option value="2">Bill Sponsorship By Parties</option>
+                        <option value="3">Bill Introduction By House or Senate</option>
+                     </select>
+  <br>
+  <br>
+                     <input type="submit"></button>	
+                 </form>
+       <br>
+	         {% block nncontent %} {% endblock %}
+
+
+
+           <div id="chartContainer" style="height: 300px; width: 80%;"></div>	
+
+
+	    </div><!--close content_item-->
+      </div><!--close content-->
+
+	</div><!--close site_content-->
+
+    <footer>
+	  <a href="/">Home</a> | <a href="{{url_for('politician')}}">People</a> | <a href="{{url_for('bill')}}">Bills</a> | <a href="{{url_for('sponsor')}}">Overview</a> | <a href="{{url_for('contact')}}">Contact</a>
+          <br>
+          &copy Zhiyong Zhao,  Elaine M'NKubitu, Chao Yang, Akanksh Chaudhary
+    </footer>
+
+  </div><!--close main-->
+
+  <!-- javascript at the bottom for fast page loading -->
+  <script type="text/javascript" src="/static/js/jquery.min.js"></script>
+  <script type="text/javascript" src="/static/js/image_slide.js"></script>
+  <script type="text/javascript" src="/static/js/modernizr-1.5.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{% endblock %}
