@@ -1,0 +1,579 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		590004A41F92ECD60036D4B2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 590004A31F92ECD60036D4B2 /* AppDelegate.swift */; };
+		590004A61F92ECD60036D4B2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 590004A51F92ECD60036D4B2 /* ViewController.swift */; };
+		590004A91F92ECD60036D4B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 590004A71F92ECD60036D4B2 /* Main.storyboard */; };
+		590004AB1F92ECD60036D4B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 590004AA1F92ECD60036D4B2 /* Assets.xcassets */; };
+		590004AE1F92ECD60036D4B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 590004AC1F92ECD60036D4B2 /* LaunchScreen.storyboard */; };
+		590004D41F92ED9E0036D4B2 /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 590004D31F92ED9E0036D4B2 /* DataModel.swift */; };
+		590004D61F92F2960036D4B2 /* DukePersonUITableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 590004D51F92F2960036D4B2 /* DukePersonUITableViewController.swift */; };
+		590004D81F92F8810036D4B2 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 590004D71F92F8810036D4B2 /* Person.swift */; };
+		590004DA1F9301CE0036D4B2 /* PersonTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 590004D91F9301CE0036D4B2 /* PersonTableViewCell.swift */; };
+		590004DC1F931DC90036D4B2 /* personDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 590004DB1F931DC90036D4B2 /* personDetailTableViewController.swift */; };
+		593C11F51F9D28850050807B /* newPersonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 593C11F41F9D28850050807B /* newPersonViewController.swift */; };
+		5957349C1F93C768005ED8A8 /* SpriteKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5957349B1F93C768005ED8A8 /* SpriteKit.framework */; };
+		5957349E1F93C83E005ED8A8 /* Run.atlas in Resources */ = {isa = PBXBuildFile; fileRef = 5957349D1F93C83E005ED8A8 /* Run.atlas */; };
+		595734A61F93D19C005ED8A8 /* RunScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 595734A51F93D19C005ED8A8 /* RunScene.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		590004B51F92ECD60036D4B2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 590004981F92ECD60036D4B2 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5900049F1F92ECD60036D4B2;
+			remoteInfo = DukePerson;
+		};
+		590004C01F92ECD60036D4B2 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 590004981F92ECD60036D4B2 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5900049F1F92ECD60036D4B2;
+			remoteInfo = DukePerson;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		590004A01F92ECD60036D4B2 /* DukePerson.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DukePerson.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		590004A31F92ECD60036D4B2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		590004A51F92ECD60036D4B2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		590004A81F92ECD60036D4B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		590004AA1F92ECD60036D4B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		590004AD1F92ECD60036D4B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		590004AF1F92ECD60036D4B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		590004B41F92ECD60036D4B2 /* DukePersonTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DukePersonTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		590004BF1F92ECD60036D4B2 /* DukePersonUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DukePersonUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		590004D31F92ED9E0036D4B2 /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
+		590004D51F92F2960036D4B2 /* DukePersonUITableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DukePersonUITableViewController.swift; sourceTree = "<group>"; };
+		590004D71F92F8810036D4B2 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		590004D91F9301CE0036D4B2 /* PersonTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonTableViewCell.swift; sourceTree = "<group>"; };
+		590004DB1F931DC90036D4B2 /* personDetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = personDetailTableViewController.swift; sourceTree = "<group>"; };
+		593C11F41F9D28850050807B /* newPersonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newPersonViewController.swift; sourceTree = "<group>"; };
+		5957349B1F93C768005ED8A8 /* SpriteKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SpriteKit.framework; path = System/Library/Frameworks/SpriteKit.framework; sourceTree = SDKROOT; };
+		5957349D1F93C83E005ED8A8 /* Run.atlas */ = {isa = PBXFileReference; lastKnownFileType = folder.skatlas; name = Run.atlas; path = ../../../../../Desktop/Run.atlas; sourceTree = "<group>"; };
+		595734A51F93D19C005ED8A8 /* RunScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunScene.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5900049D1F92ECD60036D4B2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5957349C1F93C768005ED8A8 /* SpriteKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		590004B11F92ECD60036D4B2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		590004BC1F92ECD60036D4B2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		590004971F92ECD60036D4B2 = {
+			isa = PBXGroup;
+			children = (
+				5957349D1F93C83E005ED8A8 /* Run.atlas */,
+				590004A21F92ECD60036D4B2 /* DukePerson */,
+				590004A11F92ECD60036D4B2 /* Products */,
+				5957349A1F93C767005ED8A8 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		590004A11F92ECD60036D4B2 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				590004A01F92ECD60036D4B2 /* DukePerson.app */,
+				590004B41F92ECD60036D4B2 /* DukePersonTests.xctest */,
+				590004BF1F92ECD60036D4B2 /* DukePersonUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		590004A21F92ECD60036D4B2 /* DukePerson */ = {
+			isa = PBXGroup;
+			children = (
+				590004A31F92ECD60036D4B2 /* AppDelegate.swift */,
+				590004DB1F931DC90036D4B2 /* personDetailTableViewController.swift */,
+				590004A51F92ECD60036D4B2 /* ViewController.swift */,
+				595734A51F93D19C005ED8A8 /* RunScene.swift */,
+				590004D91F9301CE0036D4B2 /* PersonTableViewCell.swift */,
+				590004A71F92ECD60036D4B2 /* Main.storyboard */,
+				593C11F41F9D28850050807B /* newPersonViewController.swift */,
+				590004AA1F92ECD60036D4B2 /* Assets.xcassets */,
+				590004AC1F92ECD60036D4B2 /* LaunchScreen.storyboard */,
+				590004AF1F92ECD60036D4B2 /* Info.plist */,
+				590004D31F92ED9E0036D4B2 /* DataModel.swift */,
+				590004D51F92F2960036D4B2 /* DukePersonUITableViewController.swift */,
+				590004D71F92F8810036D4B2 /* Person.swift */,
+			);
+			path = DukePerson;
+			sourceTree = "<group>";
+		};
+		5957349A1F93C767005ED8A8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5957349B1F93C768005ED8A8 /* SpriteKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5900049F1F92ECD60036D4B2 /* DukePerson */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 590004C81F92ECD60036D4B2 /* Build configuration list for PBXNativeTarget "DukePerson" */;
+			buildPhases = (
+				5900049C1F92ECD60036D4B2 /* Sources */,
+				5900049D1F92ECD60036D4B2 /* Frameworks */,
+				5900049E1F92ECD60036D4B2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DukePerson;
+			productName = DukePerson;
+			productReference = 590004A01F92ECD60036D4B2 /* DukePerson.app */;
+			productType = "com.apple.product-type.application";
+		};
+		590004B31F92ECD60036D4B2 /* DukePersonTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 590004CB1F92ECD60036D4B2 /* Build configuration list for PBXNativeTarget "DukePersonTests" */;
+			buildPhases = (
+				590004B01F92ECD60036D4B2 /* Sources */,
+				590004B11F92ECD60036D4B2 /* Frameworks */,
+				590004B21F92ECD60036D4B2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				590004B61F92ECD60036D4B2 /* PBXTargetDependency */,
+			);
+			name = DukePersonTests;
+			productName = DukePersonTests;
+			productReference = 590004B41F92ECD60036D4B2 /* DukePersonTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		590004BE1F92ECD60036D4B2 /* DukePersonUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 590004CE1F92ECD60036D4B2 /* Build configuration list for PBXNativeTarget "DukePersonUITests" */;
+			buildPhases = (
+				590004BB1F92ECD60036D4B2 /* Sources */,
+				590004BC1F92ECD60036D4B2 /* Frameworks */,
+				590004BD1F92ECD60036D4B2 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				590004C11F92ECD60036D4B2 /* PBXTargetDependency */,
+			);
+			name = DukePersonUITests;
+			productName = DukePersonUITests;
+			productReference = 590004BF1F92ECD60036D4B2 /* DukePersonUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		590004981F92ECD60036D4B2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0900;
+				LastUpgradeCheck = 0900;
+				ORGANIZATIONNAME = "Zhiyong Zhao";
+				TargetAttributes = {
+					5900049F1F92ECD60036D4B2 = {
+						CreatedOnToolsVersion = 9.0;
+						ProvisioningStyle = Automatic;
+					};
+					590004B31F92ECD60036D4B2 = {
+						CreatedOnToolsVersion = 9.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 5900049F1F92ECD60036D4B2;
+					};
+					590004BE1F92ECD60036D4B2 = {
+						CreatedOnToolsVersion = 9.0;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 5900049F1F92ECD60036D4B2;
+					};
+				};
+			};
+			buildConfigurationList = 5900049B1F92ECD60036D4B2 /* Build configuration list for PBXProject "DukePerson" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 590004971F92ECD60036D4B2;
+			productRefGroup = 590004A11F92ECD60036D4B2 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5900049F1F92ECD60036D4B2 /* DukePerson */,
+				590004B31F92ECD60036D4B2 /* DukePersonTests */,
+				590004BE1F92ECD60036D4B2 /* DukePersonUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5900049E1F92ECD60036D4B2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				590004AE1F92ECD60036D4B2 /* LaunchScreen.storyboard in Resources */,
+				5957349E1F93C83E005ED8A8 /* Run.atlas in Resources */,
+				590004AB1F92ECD60036D4B2 /* Assets.xcassets in Resources */,
+				590004A91F92ECD60036D4B2 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		590004B21F92ECD60036D4B2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		590004BD1F92ECD60036D4B2 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5900049C1F92ECD60036D4B2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				590004DA1F9301CE0036D4B2 /* PersonTableViewCell.swift in Sources */,
+				590004D81F92F8810036D4B2 /* Person.swift in Sources */,
+				590004A61F92ECD60036D4B2 /* ViewController.swift in Sources */,
+				590004D61F92F2960036D4B2 /* DukePersonUITableViewController.swift in Sources */,
+				595734A61F93D19C005ED8A8 /* RunScene.swift in Sources */,
+				593C11F51F9D28850050807B /* newPersonViewController.swift in Sources */,
+				590004A41F92ECD60036D4B2 /* AppDelegate.swift in Sources */,
+				590004D41F92ED9E0036D4B2 /* DataModel.swift in Sources */,
+				590004DC1F931DC90036D4B2 /* personDetailTableViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		590004B01F92ECD60036D4B2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		590004BB1F92ECD60036D4B2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		590004B61F92ECD60036D4B2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5900049F1F92ECD60036D4B2 /* DukePerson */;
+			targetProxy = 590004B51F92ECD60036D4B2 /* PBXContainerItemProxy */;
+		};
+		590004C11F92ECD60036D4B2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5900049F1F92ECD60036D4B2 /* DukePerson */;
+			targetProxy = 590004C01F92ECD60036D4B2 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		590004A71F92ECD60036D4B2 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				590004A81F92ECD60036D4B2 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		590004AC1F92ECD60036D4B2 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				590004AD1F92ECD60036D4B2 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		590004C61F92ECD60036D4B2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		590004C71F92ECD60036D4B2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		590004C91F92ECD60036D4B2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 5VK5S4E52M;
+				INFOPLIST_FILE = DukePerson/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Duke.DukePerson;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		590004CA1F92ECD60036D4B2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 5VK5S4E52M;
+				INFOPLIST_FILE = DukePerson/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Duke.DukePerson;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		590004CC1F92ECD60036D4B2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 5VK5S4E52M;
+				INFOPLIST_FILE = DukePersonTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Duke.DukePersonTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DukePerson.app/DukePerson";
+			};
+			name = Debug;
+		};
+		590004CD1F92ECD60036D4B2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 5VK5S4E52M;
+				INFOPLIST_FILE = DukePersonTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Duke.DukePersonTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/DukePerson.app/DukePerson";
+			};
+			name = Release;
+		};
+		590004CF1F92ECD60036D4B2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 5VK5S4E52M;
+				INFOPLIST_FILE = DukePersonUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Duke.DukePersonUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = DukePerson;
+			};
+			name = Debug;
+		};
+		590004D01F92ECD60036D4B2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 5VK5S4E52M;
+				INFOPLIST_FILE = DukePersonUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Duke.DukePersonUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = DukePerson;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5900049B1F92ECD60036D4B2 /* Build configuration list for PBXProject "DukePerson" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				590004C61F92ECD60036D4B2 /* Debug */,
+				590004C71F92ECD60036D4B2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		590004C81F92ECD60036D4B2 /* Build configuration list for PBXNativeTarget "DukePerson" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				590004C91F92ECD60036D4B2 /* Debug */,
+				590004CA1F92ECD60036D4B2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		590004CB1F92ECD60036D4B2 /* Build configuration list for PBXNativeTarget "DukePersonTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				590004CC1F92ECD60036D4B2 /* Debug */,
+				590004CD1F92ECD60036D4B2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		590004CE1F92ECD60036D4B2 /* Build configuration list for PBXNativeTarget "DukePersonUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				590004CF1F92ECD60036D4B2 /* Debug */,
+				590004D01F92ECD60036D4B2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 590004981F92ECD60036D4B2 /* Project object */;
+}
